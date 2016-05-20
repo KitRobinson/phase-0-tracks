@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Login Form</title>
+</head>
+<body>
+	<form name="Comments" action="success.html">
+		<fieldset>
+			<div>
+				<label>Position:</label>
+					<select name=position>
+						<option value="Teacher">Teacher</option>
+						<option value="Student">Student</option>
+						<option value="Principal">Principal</option>
+					</select>
+			</div>
+			<div>
+				<label>Name:</label>
+				<input type="text" name="name">
+			</div>
+		</fieldset>
+		<fieldset>
+			<div>
+				<label>Comments:</label>
+				<textarea name="comments" required rows="5" cols="70">
+				</textarea>
+			</div>
+			<div>
+				<label>&nbsp; 1 &nbsp;&nbsp;  2 &nbsp;&nbsp;   3&nbsp;&nbsp;&nbsp;   4 &nbsp;&nbsp;&nbsp;   5</label>
+				<br>
+				<input type="radio" name="score" value="1">
+				<input type="radio" name="score" value="2">
+				<input type="radio" name="score" value="3">
+				<input type="radio" name="score" value="4">
+				<input type="radio" name="score" value="5">
+			</div>
+			<div>
+				<label>Submit Anonymously?</label>
+				<input type="checkbox" name="anonymous" value="agree">
+			</div>
+			<div>
+				<button type="submit" name="submitButton">Submit</button>
+			</div>
+		</fieldset>	
+	</form>
+</body>
+</html>
