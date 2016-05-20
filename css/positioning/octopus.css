@@ -1,1 +1,30 @@
-
+body {
+	margin: 2px;
+	padding: 2px;
+}
+.base {
+	position: relative;
+	border:1px solid red;
+	width: 70%;
+	left: 15%;
+	top:15%;
+	padding-top:20%;
+	z-index: -1;
+}
+.holder {
+	position: relative;
+	width: 100%;
+	border: 1px solid red;
+}
+.hat {
+	position: absolute;
+	width:80%;
+	left:15%;
+}
+.glasses {
+	position: absolute;
+	width:46%;
+	left:28%;
+	top:45%;
+	border:1px solid red;
+}
