@@ -4,6 +4,20 @@ blockquote {
   margin-left: 0px;
 }
 
+body {
+  max-width: 960px;
+}
+
+#external-links{
+  width: 20%;
+  position: absolute;
+  right: 0;
+}
+
+#main-content{
+  width: 80%;
+}
+
 cite {
   display: block;
   margin-top: 10px;
@@ -29,4 +43,32 @@ figure {
 figcaption {
   font-style: italic;
   text-align: right;
+}
+
+@media screen and (max-width: 500px) {
+  h1 {
+    font-size: 16px
+  }
+  #external-links{
+    width: 100%;
+    height: 120px;
+    position: absolute;
+    margin: auto;
+    display:block;
+    right: auto;
+    border: 1px solid red;
+  }
+  #main-content{
+    width: 100%;
+    position: absolute;
+    top: 120px;
+    border: 1px solid red;
+  }
+}
+
+@media screen and (min-width:; 1400px) {
+
+  body {
+    max-width: 1500px;
+  }
 }
