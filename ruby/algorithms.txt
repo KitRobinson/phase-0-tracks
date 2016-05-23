@@ -1,0 +1,95 @@
+Elevator Operating Algorithm
+
+1) if desired floor is higher than current floor
+	- press up button
+2) if desired floor is lower than current floor
+	- press down button.
+3) while elevator door is closed
+	- wait
+4) enter elevator
+5) if no button in elevator is for the desired floor
+	- exit elevator
+	- find an untried elevator
+	- begin again at step one
+6) press button for desired floor
+7) while in elevator
+  	- while elevator door is open
+  		- if current floor is equal to desired floor
+  			- exit elevator
+		- if other robots are approaching
+			- extend arm to prevent door closing
+			- start 10 second counter
+			- while counter still has time on it
+				- wait
+			- retract arm
+		- if humans are approaching
+			- press close door button
+
+Laundry Doing Task:
+
+0) open laundry machine
+1) while laundry machine is not full
+	- while there is laundry in basket
+		- move article of clothing from laundry basket to washing machine
+	- if washing machine is more than 3/4 full
+		- set load size to large
+	- if washing maching is less than 1/2 full
+		- set load size to small
+2) if any article of clothing in washing machine belongs to wife
+	- set washing temperature to cold-cold
+	- set washing machine setting to delicate
+3) if no article of clothing in washing machine belongs to wife
+		- set washing temperatue to warm-warm
+		- set washing machine setting to heavy
+4) open laundry detergent
+5) pour 1/2 capfull of detergent into detergent cup
+6) close laundry detergent
+7) if no article of clothing in washer is not white
+	- open bleach
+	- pour 1/2 capfull of bleach into bleach cup
+	- close bleach
+8) close laundry machine
+9) activate laundry machine
+10) while laundry machine is running
+	- wait
+11) open laundry machine
+12) open drier
+13) while laundry machine is not empty
+	- remove item from laundry machine
+		- if item belongs to wife
+			- if there is any doubt
+				- hang item on drying rack
+			- if there is not any doubt
+				- put item in drier
+		- if item does not belong to wife
+			- put item in drier
+14) if any item in drier belongs to wife
+	- set drier temperature to low heat
+	- set drier setting to delicate
+15) if no item  in drier belongs to wife
+	- set drier temrperature to high heat
+	- set drier setting to normal
+16) close drier
+17) close washing machine
+18) open drier lint catcher
+19) remove lint from lint catcher
+20) close lint catcher
+21) activate drier
+22) while drier is running
+	- wait
+23) if drier settings are low heat
+	- activate drier
+24) while drier is running
+	- wait
+25) if there are no articles of clothing in the laundry hamper
+	- while there are clothes in the drier
+		- move article of clothing from drier to hamper
+	- while there are clothes on the couch
+		- move article of clothing from couch to hamper
+	- close drier
+	- Done!
+26) if there are articles of clothing in the laundry hamper 
+	- while there are clothes in the drier
+		- move article of clothing from drier to couch
+	- close drier
+	- repeat from step 0.
