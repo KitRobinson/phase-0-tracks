@@ -4,6 +4,7 @@ age = nil
 birthYear = nil
 wantsGarlicBread = nil
 wantsHealthInsurance = nil
+results = nil
 
 #Start
 puts "Welcome to the automated Werewolves Inc. HR system!"
@@ -27,3 +28,17 @@ else
 	wantsHealthInsurance = false
 end
 puts "Thank you for filling out the employee data sheet!"
+results = "inconclusive"
+if 2016-age == birthYear && (wantsHealthInsurance || wantsGarlicBread)
+	results = "Probably not a vampire."
+end
+if 2016-age != birthYear && (!wantsHealthInsurance || !wantsGarlicBread)
+	results = "Probably a vampire."
+end
+if 2016-age != birthYear && (!wantsGarlicBread && !wantsHealthInsurance)
+	results = "Almost certainly a vampire."
+end
+if (name == "Drake Cula" || name == "Tu Fang")
+	results = "Definitely a vampire"
+end
+puts results
