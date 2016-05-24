@@ -32,6 +32,11 @@ if gets.chomp == 'Y'
 else
 	wantsHealthInsurance = false
 end
+allergy = "allergy"
+puts "Please enter any allergies one at a time - type done when finished"
+until (allergy.downcase == "done" || allergy.downcase == "sunlight")
+		allergy = gets.chomp
+end
 puts "Thank you for filling out the employee data sheet!"
 results = "inconclusive"
 if 2016-age == birthYear && (wantsHealthInsurance || wantsGarlicBread)
@@ -43,9 +48,12 @@ end
 if 2016-age != birthYear && (!wantsGarlicBread && !wantsHealthInsurance)
 	results = "Almost certainly a vampire."
 end
-if (name == "Drake Cula" || name == "Tu Fang")
+if (name.downcase == "drake cula" || name.downcase == "tu fang")
 	results = "Definitely a vampire"
 end
+if (allergy.downcase == "sunlight")
+	results = "Probably a vampire."
+end	
 puts results
 employees = employees - 1
 empdone = empdone + 1
