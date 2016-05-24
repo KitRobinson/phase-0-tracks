@@ -1,0 +1,21 @@
+header {
+  background: red;
+}
+footer {
+  background: red;
+  width: 100%
+  text-align: center;
+  clear: both;
+}
+.column-1 {
+  background: green;
+  font-family: helvetica;
+  float: left;
+  width: 50%;
+}
+.column-2 {
+  background: blue;
+  font-weight: bold;
+  float: left;
+  width: 50%;
+}
