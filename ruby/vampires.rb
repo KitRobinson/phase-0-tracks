@@ -8,6 +8,11 @@ results = nil
 
 #Start
 puts "Welcome to the automated Werewolves Inc. HR system!"
+puts "How many employees will we process today?"
+employees = gets.chomp.to_i
+empdone = 1
+while employees > 0
+puts "You are employee #{empdone} out of #{empdone+employees-1}."
 puts "Please answer the following questions:"
 puts "What is your name?"
 name = gets.chomp
@@ -42,3 +47,6 @@ if (name == "Drake Cula" || name == "Tu Fang")
 	results = "Definitely a vampire"
 end
 puts results
+employees = employees - 1
+empdone = empdone + 1
+end
