@@ -66,14 +66,32 @@ while name == ""
 end
 client_data[:style] = style
 # print out hash (one line at a time by looping)
+# converted to puts commands to make it prettier - I'll use a loop method to reprint in the second instance.
 puts "Great!  Let's review:"
+puts ""
 puts "Name:      #{client_data[:name]}"
 puts "Age:       #{client_data[:age]}"
 puts "Married:   #{client_data[:married]}"
 puts "Housing:   #{client_data[:housing]}"
 puts "Style:     #{client_data[:style]}"
 # offer chance to update a key by typing in the name!
-#    - convert gets input to symbol
+puts ""
+puts "enter a field to update its value, or 'none' to confirm"
+user_command = gets.chomp
+#    - convert gets input to symbol?
+		# user_command.to_sym
+		# commented out, since I'd rather do it in the validation and setting
 #    - check if symbol exists in the hash
+while user_command.downcase != 'none' && !client_data.has_key?(user_command.to_sym)
+	puts "I didn't regnize that choice... your options are 'none' or:"		
+	puts client_data.keys
+	user_command = gets.chomp
+end
 # 		update data if possible.
+if user_command.downcase != 'none'
+	puts "enter new desired value:"
+	newvalue = gets.chomp
+	client_data[user_command.to_sym] = newvalue
+end
 # reprint the hash.
+puts client_data
