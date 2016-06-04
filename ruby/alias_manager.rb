@@ -25,10 +25,10 @@ end
 
 #get a user inputted string as a name
 def addNameToEncrypt
-	puts "enter a name to encrypt!"
+	puts "enter a name to encrypt, or type 'quit'"
 	input = gets.chomp
 #recognize a quit command from the user
-	if input != "quit"	
+	if input != "quit"	&& input != ""
 #downcase the inputted string to remove caps
 		input.downcase!
 #break it into a first and last name (a string array)... is it a problem if there are more than 2 names?  no, we are just going to reverse the array
@@ -54,15 +54,17 @@ def addNameToEncrypt
 	#reassemble the words back into a string	
 		encryptedName = nameArray.join(" ")
 	#add the string to a hash, with the codename as the key, and the realname as value
-		$codenameDatabase[encryptedName] = input.capitalize
+		$codenameDatabase[encryptedName] = input
 	#then go through the hash, printing each key value pair
 		puts ""
-		$codenameDatabase.each do |key, value|
-			puts "#{key} is actually #{value}!"
-		end
 	return true
 	else 
-		return false
+		#sort out cases where the user tried to quit, or just tried hitting enter
+		if input == "quit"
+			return false
+		else
+			return true 
+		end
 	end
 end
 
@@ -70,4 +72,8 @@ moreNames = true
 while moreNames
 moreNames = addNameToEncrypt
 end
+$codenameDatabase.each do |key, value|
+	puts "#{key} is actually #{value}!"
+end
+
 puts "thank you for encrypting names!"
