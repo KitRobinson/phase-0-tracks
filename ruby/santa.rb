@@ -1,5 +1,8 @@
 class Santa
 
+	attr_reader :age, :reindeer_ranking
+	attr_accessor :ethnicity, :gender
+
 	def speak
 		puts "Ho, ho, ho!  Haaaaaaapy Holidays!"
 	end
@@ -26,19 +29,6 @@ class Santa
 			@reindeer_ranking << reindeer
 		end
 	end
-
-	def age
-		@age
-	end
-
-	def ethnicity
-		@ethnicity
-	end
-
-	def reindeer_ranking
-		@reindeer_ranking
-	end
-
 end
 
 primeSanta = Santa.new("Male", "Caucasian")
