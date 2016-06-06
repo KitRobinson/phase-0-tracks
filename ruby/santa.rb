@@ -1,7 +1,7 @@
 class Santa
 
-	attr_reader :age, :reindeer_ranking
-	attr_accessor :ethnicity, :gender
+	attr_reader :reindeer_ranking
+	attr_accessor :ethnicity, :gender, :age
 
 	def speak
 		puts "Ho, ho, ho!  Haaaaaaapy Holidays!"
@@ -29,8 +29,16 @@ class Santa
 			@reindeer_ranking << reindeer
 		end
 	end
+
+	def about
+		puts "this Santa is a #{@gender} #{@ethnicity}, and is #{age} years old."
+	end
 end
 
+example_genders = ["agender", "female", "bigender", "male", "female", "gender fluid", "N/A"]
+example_ethnicities = ["black", "Latino", "white", "Japanese-African", "prefer not to say", "Mystical Creature (unicorn)", "N/A"]
+
+=begin
 primeSanta = Santa.new("Male", "Caucasian")
 primeSanta.speak
 primeSanta.eat_milk_and_cookies("chocolate chip cookie")
@@ -44,3 +52,12 @@ puts primeSanta.age
 puts primeSanta.reindeer_ranking
 primeSanta.get_mad_at("Rudolph")
 puts primeSanta.reindeer_ranking
+=end
+
+santas = []
+for i in 0..999
+	santas << Santa.new(example_genders.sample, example_ethnicities.sample)
+	santas[i].age = rand(140)
+	santas[i].about
+end
+
