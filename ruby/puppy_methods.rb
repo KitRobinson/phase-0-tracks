@@ -25,11 +25,16 @@ class Puppy
   def come()
   	puts "*comes near*"
   end
+
+  def initialize()
+  	puts "initializing new puppy instance"
+  end
   
 end
 
+puts "init test 1"
 rover = Puppy.new
-
+puts "init test 2"
 rover.fetch("ball")
 rover.speak(4)
 rover.roll_over
