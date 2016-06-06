@@ -29,9 +29,29 @@ class Puppy
   def initialize()
   	puts "initializing new puppy instance"
   end
-  
+
 end
 
+class State
+
+	@name = nil
+	@capitol = nil
+	def initialize(stateName, stateCapitol)
+		@name = stateName
+		@capitol = stateCapitol
+	end
+
+	def visit()
+		puts "visited #{@name}"
+	end
+
+	def nameCapitol()
+		puts "the capitol of #{@name} is #{@capitol}"
+	end
+
+end
+
+=begin
 puts "init test 1"
 rover = Puppy.new
 puts "init test 2"
@@ -43,3 +63,11 @@ puts rover.dog_years(2)
 puts rover.dog_years(3)
 puts rover.dog_years(4)
 rover.come
+=end
+
+illinois = State.new("Illinois", "Springfield")
+illinois.visit
+illinois.nameCapitol
+ohio = State.new("Ohio", "Columbus")
+ohio.visit
+ohio.nameCapitol
