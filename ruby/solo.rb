@@ -121,7 +121,7 @@ def addEmp
 	puts "the default rate of pay is $10 per hour - press enter for OK, or type a new rate of pay"
 	paychange = gets.chomp
 	if paychange != ""
-		currentAdd.pay = paychange.to_i
+		currentAdd.pay = paychange.sub("$","").to_i
 	end
 	puts "would you like to assign #{fname} to report to another employee already in the directory?"
 	puts "simply hit enter to skip, or type an employees name to assign them as #{fname}'s supervisor."
