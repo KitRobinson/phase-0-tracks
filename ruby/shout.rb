@@ -9,3 +9,8 @@ module Shout
   	end
 
 end
+
+
+
+puts Shout.yelling_happily("Hello")
+puts Shout.yell_angrily("Go Away")
