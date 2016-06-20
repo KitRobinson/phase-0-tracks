@@ -81,3 +81,12 @@ console.log(congruence(Cheese, Dog)); //expect true
 console.log(congruence(County, Dog)); //expect false
 console.log(congruence(Horse, County)); //expect true
 console.log(random_test_data(4));
+
+for(k = 1; k < 11; k++){
+
+	tester = random_test_data(Math.floor(Math.random() * 10) +1);
+	console.log("Test array " + k);
+	console.log(tester);
+	console.log("longest word in " + k);
+	console.log(longest_word(tester));
+}
