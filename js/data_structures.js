@@ -30,3 +30,23 @@ function create_horse(horse_seed){
 
 console.log(create_horse(2));
 console.log(create_horse(486));
+
+function Car(make, model, ncolor){
+	this.make = make;
+	this.model = model;
+	this.car_color = ncolor;
+
+	this.describe = function(){
+		console.log(this);
+	}
+
+	this.drive = function(){
+		console.log("Zoom!");
+	}
+}
+
+var dodge = new Car("Dodge", "Neon", "White");
+var jag = new Car("Jaguiar", "XK-6", "Green");
+
+jag.describe();
+jag.drive();
