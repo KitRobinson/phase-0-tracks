@@ -1,0 +1,70 @@
+
+------Display the information in one table (either table is fine)------
+sqlite> SELECT * FROM students
+   ...> ;
+1|Chuck Norris|CN-484658|1
+2|Annie Labus|AL-41587|3
+3|Nicolas C Carpernter|NCC-1701|2
+4|Freida Ungerer|FU-1234|1
+
+------ Update an item that meets some condition (you can choose a condition that makes sense).------
+
+sqlite> UPDATE students SET name="Nicolas C Carpenter" WHERE student_id ="NCC-1701";
+sqlite> SELECT * FROM students
+   ...> ;
+1|Chuck Norris|CN-484658|1
+2|Annie Labus|AL-41587|3
+3|Nicolas C Carpenter|NCC-1701|2
+4|Freida Ungerer|FU-1234|1
+
+------ Display the information in both tables using one query.------
+
+sqlite> SELECT * FROM students, teachers WHERE students.teacher_id = teachers.id;
+1|Chuck Norris|CN-484658|1|1|Mrs. Wormwood|3b|2
+2|Annie Labus|AL-41587|3|3|Ms. Stinkweed|2a|1
+3|Nicolas C Carpenter|NCC-1701|2|2|Mr. Bognort|3a|3
+4|Freida Ungerer|FU-1234|1|1|Mrs. Wormwood|3b|2
+
+------ Display a narrower selection of columns (fewer columns than all of them, in other words) from both tables using one query -----
+
+sqlite> SELECT students.name, teachers.name FROM students JOIN teachers ON students.teacher_id = teachers.id;
+Chuck Norris|Mrs. Wormwood
+Annie Labus|Ms. Stinkweed
+Nicolas C Carpenter|Mr. Bognort
+Freida Ungerer|Mrs. Wormwood
+
+
+------Delete an item that meets some condition (you can choose a condition that makes sense)------
+
+sqlite> DELETE FROM students WHERE name="Freida Ungerer";
+sqlite> SELECT * FROM students;
+1|Chuck Norris|CN-484658|1
+2|Annie Labus|AL-41587|3
+3|Nicolas C Carpenter|NCC-1701|2
+
+------Try a few different joins in your database, and record the commands and the output in queries.txt.------
+
+sqlite> SELECT * FROM students CRISS JOIN teachers;
+1|Chuck Norris|CN-484658|1|1|Mrs. Wormwood|3b|2
+1|Chuck Norris|CN-484658|1|2|Mr. Bognort|3a|3
+1|Chuck Norris|CN-484658|1|3|Ms. Stinkweed|2a|1
+2|Annie Labus|AL-41587|3|1|Mrs. Wormwood|3b|2
+2|Annie Labus|AL-41587|3|2|Mr. Bognort|3a|3
+2|Annie Labus|AL-41587|3|3|Ms. Stinkweed|2a|1
+3|Nicolas C Carpenter|NCC-1701|2|1|Mrs. Wormwood|3b|2
+3|Nicolas C Carpenter|NCC-1701|2|2|Mr. Bognort|3a|3
+3|Nicolas C Carpenter|NCC-1701|2|3|Ms. Stinkweed|2a|1
+
+sqlite> SELECT * FROM students LEFT OUTER JOIN teachers ON students.teacher_id = teachers.id;
+1|Chuck Norris|CN-484658|1|1|Mrs. Wormwood|3b|2
+2|Annie Labus|AL-41587|3|3|Ms. Stinkweed|2a|1
+3|Nicolas C Carpenter|NCC-1701|2|2|Mr. Bognort|3a|3
+
+sqlite> SELECT * FROM students LEFT OUTER JOIN teachers ON students.teacher_id > 1;
+1|Chuck Norris|CN-484658|1||||
+2|Annie Labus|AL-41587|3|1|Mrs. Wormwood|3b|2
+2|Annie Labus|AL-41587|3|2|Mr. Bognort|3a|3
+2|Annie Labus|AL-41587|3|3|Ms. Stinkweed|2a|1
+3|Nicolas C Carpenter|NCC-1701|2|1|Mrs. Wormwood|3b|2
+3|Nicolas C Carpenter|NCC-1701|2|2|Mr. Bognort|3a|3
+3|Nicolas C Carpenter|NCC-1701|2|3|Ms. Stinkweed|2a|1
