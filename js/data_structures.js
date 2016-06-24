@@ -46,7 +46,7 @@ function Car(make, model, ncolor){
 }
 
 var dodge = new Car("Dodge", "Neon", "White");
-var jag = new Car("Jaguiar", "XK-6", "Green");
+var jag = new Car("Jaguar", "XK-6", "Green");
 
 jag.describe();
 jag.drive();
