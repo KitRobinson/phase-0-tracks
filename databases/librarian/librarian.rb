@@ -45,8 +45,33 @@ lib.execute("INSERT INTO books (title, author_id, section, on_shelf) VALUES ('Th
 
 #return a few sqlcalls as hashes
 booklist = lib.execute("SELECT * FROM books")
-puts booklist
 authorlist = lib.execute("SELECT * FROM authors")
-p authorlist
 joinlist = lib.execute("SELECT * FROM books JOIN authors ON books.author_id = authors.id")
-p joinlist
+
+#output the joined list
+joinlist.each do |book|
+	puts "#{book['title']} by #{book['l_name']} is a #{book['section']} book."
+end
+
+#open the text file containing the booklist from the library
+f = File.open('importbooklist.txt')
+
+#parse the incoming lines into arrays of data
+while line = f.gets do
+	parsed_line = line.split('*')
+	parsed_line.each do |word|
+		word.strip!
+	end
+	# and then add the data to the library
+
+	# dont add the same author twice!
+	add_author = "INSERT INTO authors (l_name, f_name) SELECT '#{parsed_line[0]}','#{parsed_line[1]}' WHERE NOT EXISTS(SELECT 1 FROM authors WHERE l_name = '#{parsed_line[0]}' AND f_name = '#{parsed_line[1]}')"
+	lib.execute(add_author)
+	puts "add author #{parsed_line[0]}"
+	# but we will always add the book!
+	add_book = "INSERT INTO books (title, section, on_shelf, author_id) VALUES ('#{parsed_line[2].gsub("'"){"''"}}','#{parsed_line[4]}', '#{parsed_line[5]}', (SELECT id FROM authors WHERE l_name = '#{parsed_line[0]}' AND f_name = '#{parsed_line[1]}'))"
+	puts add_book
+	lib.execute(add_book)
+	puts "add book #{parsed_line[3]}"
+end
+f.close
