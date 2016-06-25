@@ -69,28 +69,25 @@ def import(libfile, lib)
 	#parse the incoming lines into arrays of data
 	while line = f.gets do
 		parsed_line = line.split('*')
-		parsed_line.each do |word|
-			word.strip!
-		end
-		# and then add the data to the library
-		# dont add the same author twice!
-		add_author = "INSERT INTO authors (l_name, f_name) SELECT '#{parsed_line[0]}','#{parsed_line[1]}' WHERE NOT EXISTS(SELECT 1 FROM authors WHERE l_name = '#{parsed_line[0]}' AND f_name = '#{parsed_line[1]}')"
-		lib.execute(add_author)
-		# but we will always add the book!
-		add_book = "INSERT INTO books (title, section, on_shelf, author_id) VALUES ('#{parsed_line[2].gsub("'"){"''"}}','#{parsed_line[4]}', '#{parsed_line[5]}', (SELECT id FROM authors WHERE l_name = '#{parsed_line[0]}' AND f_name = '#{parsed_line[1]}'))"
-		lib.execute(add_book)
-		puts "added #{parsed_line[2]} by #{parsed_line[1]} #{parsed_line[0]}"
+		add_book(parsed_line, lib)
 	end
 	f.close
 end
 
 
+# basic parser for search terms, to read from UI input
 def searchby(criteria, value, lib)
-	value = value.gsub("'"){"''"}
-	return lib.execute("Select * from books join authors on books.author_id = authors.id WHERE #{criteria} = #{value})")
+	#clear unnecessary apostrophes, and return to int if that was the intention
+	value = value.to_s.gsub("'"){"''"}
+	value.to_i != 0 ? value.to_i : value
+	return lib.execute("Select * from books join authors on books.author_id = authors.id WHERE #{criteria} = #{value}")
 end
 
+
+# display a more nicely formatted table of returned items
 def show_books(found_list)
+	puts ""
+	puts ""
 	puts ("Author                    Title                                    Section              Available")
 	puts ("--------------------------------------------------------------------------------------------")
 	for i in 0...found_list.size
@@ -98,20 +95,68 @@ def show_books(found_list)
 	end
 end
 
+# add an item to the formatted table
+def append_to_list(found_list, index_num)
+	puts ("#{(found_list[index_num][6]+', '+found_list[index_num][7]).truncate(25).ljust(25, " ")} #{found_list[index_num][1].truncate(40).ljust(40," ")} #{found_list[index_num][3].truncate(20).ljust(20," ")} #{found_list[index_num][4]}")	
+end
+
+# chose a number (num_to_find) of random books in the lib
 def browse(num_to_find, lib)
 	book_nums = []
 	for j in 0...num_to_find
 		book_nums.push rand(lib.execute("Select count(title) from books")[0][0])
-		#!!!!!!!! problem:  can I pass an array here, as a list of WHERE id = 1, 2, 3, etc?  
-		#!!!!!!!! if not, can I make an entirely new table and join tnem to books in some goofy way?
 	end
-	found_list = lib.execute("SELECT * FROM books JOIN authors ON books.author_id = authors.id WHERE books.id = #{book_nums}")
+	found_list = lib.execute("SELECT * FROM books JOIN authors ON books.author_id = authors.id WHERE books.id = #{book_nums[0]}")
 	show_books(found_list)
+	for k in 1...num_to_find
+		found_list = lib.execute("SELECT * FROM books JOIN authors ON books.author_id = authors.id WHERE books.id = #{book_nums[k]}")
+		append_to_list(found_list, 0)
+	end
 end
 
+#things I want to be able to do in the user interface:
+
+# 1 search by title, or by author
+# 2 narrow my search from author down
+#      this might get down to selecting by book ID
+# 2-a- implement a wildcard or short search function
+	#2 -A+ -#it would be pretty slick if this ignored "the"
+
+# Check out a book once selected.
+def checkout_book(book_id, lib)
+	lib.execute("UPDATE books SET on_shelf = 'false' WHERE books.id = #{book_id}")
+end
+# Return a book once selected.
+def return_book(book_id, lib)
+	lib.execute("UPDATE books SET on_shelf = 'true' WHERE books.id = #{book_id}")
+end	
+# add a new book.
+def add_book(parsed_line, lib)
+	parsed_line.each do |word|
+		word.strip!
+	end
+	# and then add the data to the library
+	# dont add the same author twice!
+	add_author = "INSERT INTO authors (l_name, f_name) SELECT '#{parsed_line[0]}','#{parsed_line[1]}' WHERE NOT EXISTS(SELECT 1 FROM authors WHERE l_name = '#{parsed_line[0]}' AND f_name = '#{parsed_line[1]}')"
+	lib.execute(add_author)
+	# but we will always add the book!
+	add_book = "INSERT INTO books (title, section, on_shelf, author_id) VALUES ('#{parsed_line[2].gsub("'"){"''"}}','#{parsed_line[4]}', '#{parsed_line[5]}', (SELECT id FROM authors WHERE l_name = '#{parsed_line[0]}' AND f_name = '#{parsed_line[1]}'))"
+	lib.execute(add_book)
+	puts "added #{parsed_line[2]} by #{parsed_line[1]} #{parsed_line[0]}"
+	end
 ################# DRIVER CODE ####################
 
-import('shortbooklist.txt', lib)
-findbook = lib.execute("select * from books join authors on books.author_id = authors.id where books.id < 10 ORDER BY authors.l_name")
+
+#import('importbooklist.txt', lib)
+findbook = lib.execute("select * from books join authors on books.author_id = authors.id where authors.l_name = 'Dostoevsky' ORDER BY books.title")
 show_books(findbook)
-browse(1,lib)
+browse(8,lib)
+test_book = searchby('authors.id', 3, lib)
+show_books(test_book)
+checkout_book(5, lib)
+test_book = searchby('authors.id', 3, lib)
+show_books(test_book)
+return_book(5,lib)
+test_book = searchby('authors.id', 3, lib)
+show_books(test_book)
+
