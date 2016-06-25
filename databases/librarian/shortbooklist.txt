@@ -1,0 +1,21 @@
+Abbot	*	 Carl	*	Frontiers Past and Future: Science Fiction and the American West	*	Hardcover	*	Criticism	*	true
+Adams	*	 Douglas	*	The Salmon of Doubt	*	Hardcover	*	Essays	*	true
+Adams	*	 Douglas	*	The Hitchhikers Guide to the Galaxy	*	Hardcover	*	Fiction	*	true
+Adams	*	 Douglas	*	Dirk Gently's Holistic Detective Agency	*	Hardcover	*	Fiction	*	true
+Albers	*	 R. M.	*	Kafka, The Torment of Man	*	Hardcover	*	Criticism	*	true
+Anouilin	*	 Jean	*	Poor Bitos	*	Hardcover	*	Drama	*	true
+Anthony	*	 Piers	*	Roc and a Hard Place	*	Hardcover	*	Fiction	*	true
+Anthony	*	 Piers	*	Demons Don't Dream	*	Hardcover	*	Fiction	*	true
+Anthony	*	 Piers	*	Geas of the Gargoyle	*	Hardcover	*	Fiction	*	true
+Anthony	*	 Piers	*	Yon Ill Wind	*	Hardcover	*	Fiction	*	true
+Asimov	*	 Isaac	*	The Far Ends of Time and Earth	*	Hardcover	*	Fiction	*	true
+Asimov	*	 Isaac	*	The Foundation Trilogy	*	Hardcover	*	Fiction	*	true
+Asimov	*	 Isaac	*	Murder at the ABA	*	Hardcover	*	Fiction	*	true
+Asimov	*	 Isaac	*	Understanding Physics	*	Hardcover	*	Non-Fiction	*	true
+Asimov	*	 Isaac	*	Extraterrestrial Civilizations	*	Hardcover	*	Non-Fiction	*	true
+Atwood	*	 Margaret	*	In The Year of the Flood	*	Hardcover	*	Fiction	*	true
+Atwood	*	 Margaret	*	MaddAdam	*	Hardcover	*	Fiction	*	true
+Herbert	*	 Frank	*	Dune	*	Hardcover	*	Fiction	*	true
+Hesse	*	 Hermann	*	Autobiographical Writings	*	Hardcover	*	Memoir	*	true
+Hobb	*	 Robin	*	Forest Mage	*	Hardcover	*	Fiction	*	true
+Hobday	*	 Cara	*	Indian Side Dishes	*	Hardcover	*	Cookbook	*	true
