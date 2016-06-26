@@ -1,274 +1,274 @@
-Abbot	*	 Carl	*	Frontiers Past and Future: Science Fiction and the American West	*	Hardcover	*	Criticism	*	true
-Adams	*	 Douglas	*	The Salmon of Doubt	*	Hardcover	*	Essays	*	true
-Adams	*	 Douglas	*	The Hitchhikers Guide to the Galaxy	*	Hardcover	*	Fiction	*	true
-Adams	*	 Douglas	*	Dirk Gently's Holistic Detective Agency	*	Hardcover	*	Fiction	*	true
-Albers	*	 R. M.	*	Kafka, The Torment of Man	*	Hardcover	*	Criticism	*	true
+Abbot	*	 Carl	*	Frontiers Past And Future: Science Fiction And The American West	*	Hardcover	*	Criticism	*	true
+Adams	*	 Douglas	*	The Salmon Of Doubt	*	Hardcover	*	Essays	*	true
+Adams	*	 Douglas	*	The Hitchhikers Guide To The Galaxy	*	Hardcover	*	Fiction	*	true
+Adams	*	 Douglas	*	Dirk Gently'S Holistic Detective Agency	*	Hardcover	*	Fiction	*	true
+Albers	*	 R. M.	*	Kafka, The Torment Of Man	*	Hardcover	*	Criticism	*	true
 Anouilin	*	 Jean	*	Poor Bitos	*	Hardcover	*	Drama	*	true
-Anthony	*	 Piers	*	Roc and a Hard Place	*	Hardcover	*	Fiction	*	true
-Anthony	*	 Piers	*	Demons Don't Dream	*	Hardcover	*	Fiction	*	true
-Anthony	*	 Piers	*	Geas of the Gargoyle	*	Hardcover	*	Fiction	*	true
+Anthony	*	 Piers	*	Roc And A Hard Place	*	Hardcover	*	Fiction	*	true
+Anthony	*	 Piers	*	Demons Don'T Dream	*	Hardcover	*	Fiction	*	true
+Anthony	*	 Piers	*	Geas Of The Gargoyle	*	Hardcover	*	Fiction	*	true
 Anthony	*	 Piers	*	Yon Ill Wind	*	Hardcover	*	Fiction	*	true
-Asimov	*	 Isaac	*	The Far Ends of Time and Earth	*	Hardcover	*	Fiction	*	true
+Asimov	*	 Isaac	*	The Far Ends Of Time And Earth	*	Hardcover	*	Fiction	*	true
 Asimov	*	 Isaac	*	The Foundation Trilogy	*	Hardcover	*	Fiction	*	true
-Asimov	*	 Isaac	*	Murder at the ABA	*	Hardcover	*	Fiction	*	true
+Asimov	*	 Isaac	*	Murder At The Aba	*	Hardcover	*	Fiction	*	true
 Asimov	*	 Isaac	*	Understanding Physics	*	Hardcover	*	Non-Fiction	*	true
 Asimov	*	 Isaac	*	Extraterrestrial Civilizations	*	Hardcover	*	Non-Fiction	*	true
-Atwood	*	 Margaret	*	In The Year of the Flood	*	Hardcover	*	Fiction	*	true
-Atwood	*	 Margaret	*	MaddAdam	*	Hardcover	*	Fiction	*	true
-Baker	*	 Nicholson	*	VOX	*	Hardcover	*	Fiction	*	true
-Baker	*	 Nicholson	*	The Everlasting Story of Nory	*	Hardcover	*	Fiction	*	true
-Baker	*	 Nicholson	*	A Box of Matches	*	Hardcover	*	Fiction	*	true
+Atwood	*	 Margaret	*	In The Year Of The Flood	*	Hardcover	*	Fiction	*	true
+Atwood	*	 Margaret	*	Maddadam	*	Hardcover	*	Fiction	*	true
+Baker	*	 Nicholson	*	Vox	*	Hardcover	*	Fiction	*	true
+Baker	*	 Nicholson	*	The Everlasting Story Of Nory	*	Hardcover	*	Fiction	*	true
+Baker	*	 Nicholson	*	A Box Of Matches	*	Hardcover	*	Fiction	*	true
 Baker	*	 Nicholson	*	The Fermata	*	Hardcover	*	Fiction	*	true
 Balzac	*	 Honore De	*	The Girl With The Golden Eyes	*	Hardcover	*	Fiction	*	true
 Barrie	*	 J.M.	*	Peter Pan	*	Hardcover	*	Fiction	*	true
 Barry	*	 Dave	*	Tricky Business	*	Hardcover	*	Fiction	*	true
 Barth	*	 John	*	Giles Goat-Boy	*	Hardcover	*	Fiction	*	true
-Batterby	*	 K. A. J.	*	Rilke and France; A study in Poetic Development	*	Hardcover	*	Criticism	*	true
-Baudelair	*	 Charles	*	The Flowers of Evil	*	Hardcover	*	Poetry	*	true
+Batterby	*	 K. A. J.	*	Rilke And France; A Study In Poetic Development	*	Hardcover	*	Criticism	*	true
+Baudelair	*	 Charles	*	The Flowers Of Evil	*	Hardcover	*	Poetry	*	true
 Beach	*	 Tim	*	Monstrous Manual	*	Hardcover	*	RPG	*	true
 Bear	*	 Greg	*	Dinosaur Summer	*	Hardcover	*	Fiction	*	true
 Bierce	*	 Ambrose	*	Diabolical Definitions	*	Hardcover	*	Humor	*	true
 Blanchard	*	 Ken	*	Raving Fans	*	Hardcover	*	Non-Fiction	*	true
-Boulle	*	 Pierre	*	Bridge Over the River Kwai	*	Hardcover	*	Fiction	*	true
-Boyle	*	 T. Coraghessan	*	The Road to Wellville	*	Hardcover	*	Fiction	*	true
+Boulle	*	 Pierre	*	Bridge Over The River Kwai	*	Hardcover	*	Fiction	*	true
+Boyle	*	 T. Coraghessan	*	The Road To Wellville	*	Hardcover	*	Fiction	*	true
 Bradbury	*	 Ray	*	Dandelion Wine	*	Hardcover	*	Fiction	*	true
-Bradbury	*	 Ray	*	From the Dust Returned	*	Hardcover	*	Fiction	*	true
-Bradley	*	 Marion Zimmer	*	The Mists of Avalon	*	Hardcover	*	Fiction	*	true
+Bradbury	*	 Ray	*	From The Dust Returned	*	Hardcover	*	Fiction	*	true
+Bradley	*	 Marion Zimmer	*	The Mists Of Avalon	*	Hardcover	*	Fiction	*	true
 Bronte	*	 Charlotte	*	Jane Eyre	*	Hardcover	*	Fiction	*	true
 Buck	*	 Pearl S	*	Imperial Woman	*	Hardcover	*	Fiction	*	false
 Buford	*	 Bill	*	Heat	*	Hardcover	*	Fiction	*	true
 Burns	*	 George	*	Gracie, A Love Story	*	Hardcover	*	Fiction	*	true
-Burroughs	*	 Edgar Rice	*	Tarzan Of The Apes; three complete novels	*	Hardcover	*	Fiction	*	true
+Burroughs	*	 Edgar Rice	*	Tarzan Of The Apes; Three Complete Novels	*	Hardcover	*	Fiction	*	true
 Butcher	*	 Jim	*	Changes	*	Hardcover	*	Fiction	*	true
-Camus	*	 Albert	*	Caligula and Three Other Plays	*	Hardcover	*	Drama	*	true
-Card	*	 Orson Scott	*	First Meetings In the Enderverse	*	Hardcover	*	Fiction	*	true
-Card	*	 Orson Scott	*	Maps in a Mirror	*	Hardcover	*	Fiction	*	true
-Card	*	 Orson Scott	*	Keeper of Dreams	*	Hardcover	*	Fiction	*	true
-Card	*	 Orson Scott	*	Children of the Mind	*	Hardcover	*	Fiction	*	true
-Card	*	 Orson Scott	*	Ender's Shadow	*	Hardcover	*	Fiction	*	true
-Card	*	 Orson Scott	*	Shadow of the Hegemon	*	Hardcover	*	Fiction	*	true
+Camus	*	 Albert	*	Caligula And Three Other Plays	*	Hardcover	*	Drama	*	true
+Card	*	 Orson Scott	*	First Meetings In The Enderverse	*	Hardcover	*	Fiction	*	true
+Card	*	 Orson Scott	*	Maps In A Mirror	*	Hardcover	*	Fiction	*	true
+Card	*	 Orson Scott	*	Keeper Of Dreams	*	Hardcover	*	Fiction	*	true
+Card	*	 Orson Scott	*	Children Of The Mind	*	Hardcover	*	Fiction	*	true
+Card	*	 Orson Scott	*	Ender'S Shadow	*	Hardcover	*	Fiction	*	true
+Card	*	 Orson Scott	*	Shadow Of The Hegemon	*	Hardcover	*	Fiction	*	true
 Card	*	 Orson Scott	*	Shadow Puppets	*	Hardcover	*	Fiction	*	true
 Card	*	 Orson Scott	*	The Lost Gate	*	Hardcover	*	Fiction	*	true
 Card	*	 Orson Scott	*	Empire	*	Hardcover	*	Fiction	*	true
 Card	*	 Orson Scott	*	Magic Mirror	*	Hardcover	*	Fiction	*	true
-Card	*	 Orson Scott	*	A War of Gifts 	*	Hardcover	*	Fiction	*	true
-Carnoy	*	 Martin	*	Education as Cultural Imperialism	*	Hardcover	*	Philosophy	*	true
-Carre	*	 John Le	*	The Spy Who Came in From the Cold	*	Hardcover	*	Fiction	*	true
+Card	*	 Orson Scott	*	A War Of Gifts 	*	Hardcover	*	Fiction	*	true
+Carnoy	*	 Martin	*	Education As Cultural Imperialism	*	Hardcover	*	Philosophy	*	true
+Carre	*	 John Le	*	The Spy Who Came In From The Cold	*	Hardcover	*	Fiction	*	true
 Carre	*	 John Le	*	Our Game	*	Hardcover	*	Fiction	*	true
-Carrol	*	 Lewis	*	Through the Looking Glass	*	Hardcover	*	Fiction	*	true
-Carrol	*	 Lewis	*	Alice in Wonderland	*	Hardcover	*	Fiction	*	true
-Chabon	*	 Michael	*	The Yiddish Policeman's Union	*	Hardcover	*	Fiction	*	true
-Chevigny	*	Jack	*	20th Century interpretations of Endgame	*	Hardcover	*	Criticism	*	true
-Chomsky	*	 Noam	*	Hegemony or Survival	*	Hardcover	*	Non-Fiction	*	true
+Carrol	*	 Lewis	*	Through The Looking Glass	*	Hardcover	*	Fiction	*	true
+Carrol	*	 Lewis	*	Alice In Wonderland	*	Hardcover	*	Fiction	*	true
+Chabon	*	 Michael	*	The Yiddish Policeman'S Union	*	Hardcover	*	Fiction	*	true
+Chevigny (ed)	*		*	20Th Century Interpretations Of Endgame	*	Hardcover	*	Criticism	*	true
+Chomsky	*	 Noam	*	Hegemony Or Survival	*	Hardcover	*	Non-Fiction	*	true
 Christensen	*	 Kate	*	The Epicures Lament	*	Hardcover	*	Fiction	*	true
-Cook	*	 David	*	Players Handbook 2nd Ed	*	Hardcover	*	RPG	*	true
+Cook	*	 David	*	Players Handbook 2Nd Ed	*	Hardcover	*	RPG	*	true
 Crews	*	 Frederick C.	*	The Pooh Perplex	*	Hardcover	*	Criticism	*	true
-Dahl	*	 Roald	*	Charlie and the Great Glass Elevator	*	Hardcover	*	Fiction	*	true
-Dahl	*	 Roald	*	Charlie and the Chocolate Factory	*	Hardcover	*	Fiction	*	true
+Dahl	*	 Roald	*	Charlie And The Great Glass Elevator	*	Hardcover	*	Fiction	*	true
+Dahl	*	 Roald	*	Charlie And The Chocolate Factory	*	Hardcover	*	Fiction	*	true
 DeLillo	*	 Don	*	Underworld	*	Hardcover	*	Fiction	*	true
-Dickens	*	 Charles	*	A Tale of Two Cities	*	Hardcover	*	Fiction	*	true
+Dickens	*	 Charles	*	A Tale Of Two Cities	*	Hardcover	*	Fiction	*	true
 Dostoevsky	*	 Fyodor	*	The Brothers Karamazov	*	Hardcover	*	Fiction	*	true
 Dumas	*	 Alexandre	*	Camille	*	Hardcover	*	Fiction	*	true
-Durant	*	 Will	*	The Story of Philosophy	*	Hardcover	*	Philosophy	*	true
-Eddings	*	 David and Leigh	*	Belgarath the Sorcerer	*	Hardcover	*	Fiction	*	true
-Eddings	*	 David and Leigh	*	Polgara the Sorceress	*	Hardcover	*	Fiction	*	true
+Durant	*	 Will	*	The Story Of Philosophy	*	Hardcover	*	Philosophy	*	true
+Eddings	*	 David and Leigh	*	Belgarath The Sorcerer	*	Hardcover	*	Fiction	*	true
+Eddings	*	 David and Leigh	*	Polgara The Sorceress	*	Hardcover	*	Fiction	*	true
 Faulkner	*	 William	*	Faulkner; Novels, 1936-1940	*	Hardcover	*	Fiction	*	true
 Faulkner	*	 William	*	The Reivers	*	Hardcover	*	Fiction	*	true
-Feynman	*	 Richard P	*	The Pleasure of Finding Things Out	*	Hardcover	*	Memoir	*	true
+Feynman	*	 Richard P	*	The Pleasure Of Finding Things Out	*	Hardcover	*	Memoir	*	true
 Flaubert	*	 Gustave	*	Madame Bovary	*	Hardcover	*	Fiction	*	true
-Follet	*	 Ken	*	The Man from St. Petersburg	*	Hardcover	*	Fiction	*	true
+Follet	*	 Ken	*	The Man From St. Petersburg	*	Hardcover	*	Fiction	*	true
 Follet	*	 Ken	*	World Without End	*	Hardcover	*	Fiction	*	true
 Forester	*	 C.S.	*	Horatio Hornblower	*	Hardcover	*	Fiction	*	true
-Forster	*	 E. M.	*	A Passage to India	*	Hardcover	*	Fiction	*	true
+Forster	*	 E. M.	*	A Passage To India	*	Hardcover	*	Fiction	*	true
 Francis	*	 Dick and Felix	*	Dead Heat	*	Hardcover	*	Fiction	*	true
 Gibson	*	 William	*	Neuromancer	*	Hardcover	*	Fiction	*	true
-Ginsberg	*	 Allen	*	The Fall of America	*	Hardcover	*	Poetry	*	true
+Ginsberg	*	 Allen	*	The Fall Of America	*	Hardcover	*	Poetry	*	true
 Golden	*	 Christie	*	Omen	*	Hardcover	*	Fiction	*	true
-Golding	*	 William	*	Lord of the Flies	*	Hardcover	*	Fiction	*	true
-Goodman	*	 Richard	*	French Dirt; The Story of a Garden in the South of France	*	Hardcover	*	Fiction	*	true
-Grahame	*	 Kenneth	*	The Wind in the Willows	*	Hardcover	*	Fiction	*	true
+Golding	*	 William	*	Lord Of The Flies	*	Hardcover	*	Fiction	*	true
+Goodman	*	 Richard	*	French Dirt; The Story Of A Garden In The South Of France	*	Hardcover	*	Fiction	*	true
+Grahame	*	 Kenneth	*	The Wind In The Willows	*	Hardcover	*	Fiction	*	true
 Grossman	*	 Lev	*	The Magician King	*	Hardcover	*	Fiction	*	true
 Grossman	*	 Lev	*	The Magicians	*	Hardcover	*	Fiction	*	true
 Hamilton	*	 Alexander	*	The Federalist Papers	*	Hardcover	*	Philosophy	*	true
 Harmon	*	William (Ed)	*	Top 500 Poems	*	Hardcover	*	Poetry	*	true
-Hawthorne	*	 Nathaniel	*	Hawthorne's Short Stories	*	Hardcover	*	Fiction	*	true
+Hawthorne	*	 Nathaniel	*	Hawthorne'S Short Stories	*	Hardcover	*	Fiction	*	true
 Heller	*	 Jospeh	*	Good As Gold	*	Hardcover	*	Fiction	*	true
-Hemmingway	*	 Ernest	*	The Snows of Kilimanjaro	*	Hardcover	*	Fiction	*	true
+Hemmingway	*	 Ernest	*	The Snows Of Kilimanjaro	*	Hardcover	*	Fiction	*	true
 Hemmingway	*	 Ernest	*	A Movable Feast	*	Hardcover	*	Fiction	*	true
-Hemmingway	*	 Ernest	*	A Farewell to Arms	*	Hardcover	*	Fiction	*	true
+Hemmingway	*	 Ernest	*	A Farewell To Arms	*	Hardcover	*	Fiction	*	true
 Hemmingway	*	 Ernest	*	The Sun Also Rises	*	Hardcover	*	Fiction	*	true
-Hemmingway	*	 Ernest	*	The Old Man and the Sea	*	Hardcover	*	Fiction	*	true
-Herbert	*	 Brian	*	The Battle of Corrin	*	Hardcover	*	Fiction	*	true
+Hemmingway	*	 Ernest	*	The Old Man And The Sea	*	Hardcover	*	Fiction	*	true
+Herbert	*	 Brian	*	The Battle Of Corrin	*	Hardcover	*	Fiction	*	true
 Herbert	*	 Brian	*	Dune: House Harkonnen	*	Hardcover	*	Fiction	*	true
 Herbert	*	 Frank	*	Dune	*	Hardcover	*	Fiction	*	true
 Hesse	*	 Hermann	*	Autobiographical Writings	*	Hardcover	*	Memoir	*	true
 Hobb	*	 Robin	*	Forest Mage	*	Hardcover	*	Fiction	*	true
 Hobday	*	 Cara	*	Indian Side Dishes	*	Hardcover	*	Cookbook	*	true
 Hosseini	*	 Khaled	*	A Thousand Splendid Suns	*	Hardcover	*	Fiction	*	true
-Irving	*	 John	*	A Son of the Circus	*	Hardcover	*	Fiction	*	true
-Irving	*	 John	*	The World According to Garp	*	Hardcover	*	Fiction	*	true
+Irving	*	 John	*	A Son Of The Circus	*	Hardcover	*	Fiction	*	true
+Irving	*	 John	*	The World According To Garp	*	Hardcover	*	Fiction	*	true
 Jennings	*	 Gary	*	The Journeyer	*	Hardcover	*	Fiction	*	true
 Jennings	*	 Gary	*	Aztec	*	Hardcover	*	Fiction	*	true
 Jennings	*	 Gary	*	Aztec Autumn	*	Hardcover	*	Fiction	*	true
 Johnson	*	 Dennis	*	Nobody Move; A Novel	*	Hardcover	*	Fiction	*	true
-Johnson	*	 Paul	*	Art Through the Ages	*	Hardcover	*	Art	*	true
+Johnson	*	 Paul	*	Art Through The Ages	*	Hardcover	*	Art	*	true
 Kafka	*	 Franz	*	The Trial	*	Hardcover	*	Fiction	*	true
 Kahlil Gibran	*		*	The Prophet	*	Hardcover	*	Poetry	*	true
-Kahlil Gibran	*		*	Patterns of Happiness	*	Hardcover	*	Poetry	*	true
+Kahlil Gibran	*		*	Patterns Of Happiness	*	Hardcover	*	Poetry	*	true
 Kahlil Gibran	*		*	The Procession	*	Hardcover	*	Poetry	*	true
-Kahlil Gibran	*		*	Tears and Laughter	*	Hardcover	*	Poetry	*	true
-Kaufman	*	 Pamela	*	Shield of Three Lions	*	Hardcover	*	Fiction	*	true
+Kahlil Gibran	*		*	Tears And Laughter	*	Hardcover	*	Poetry	*	true
+Kaufman	*	 Pamela	*	Shield Of Three Lions	*	Hardcover	*	Fiction	*	true
 Kehlog Albran	*		*	The Profit	*	Hardcover	*	Poetry	*	true
 Kooser	*	 Ted	*	Valentines	*	Hardcover	*	Poetry	*	true
-Kreymborg	*	 Alfred (Ed)	*	An Anthology of American Poetry	*	Hardcover	*	Poetry	*	true
+Kreymborg	*	 Alfred (Ed)	*	An Anthology Of American Poetry	*	Hardcover	*	Poetry	*	true
 Lessner	*	 Erwin	*	Phantom Victory	*	Hardcover	*	Fiction	*	true
 Luceno	*	 James	*	Millenium Falcon	*	Hardcover	*	Fiction	*	true
-Martin	*	 George R.R.	*	A Clash of Kings	*	Hardcover	*	Fiction	*	true
+Martin	*	 George R.R.	*	A Clash Of Kings	*	Hardcover	*	Fiction	*	true
 Mates	*	 Benson	*	Elementary Logic	*	Hardcover	*	Philosophy	*	true
 Maugham	*	 Sommerset	*	Mr. Maugham Himself	*	Hardcover	*	Fiction	*	true
-Maugham	*	 Sommerset	*	The Razor's Edge	*	Hardcover	*	Fiction	*	true
-Maupassant	*	 Guy De	*	Short Stories of Maupassant	*	Hardcover	*	Fiction	*	true
-McCall	*	 Dorothy	*	The Theater of Jean-Paul Sartre	*	Hardcover	*	Criticism	*	true
+Maugham	*	 Sommerset	*	The Razor'S Edge	*	Hardcover	*	Fiction	*	true
+Maupassant	*	 Guy De	*	Short Stories Of Maupassant	*	Hardcover	*	Fiction	*	true
+McCall	*	 Dorothy	*	The Theater Of Jean-Paul Sartre	*	Hardcover	*	Criticism	*	true
 McEwan	*	 Ian	*	Saturday	*	Hardcover	*	Fiction	*	true
-Miller	*	 Arthur	*	Death of A Salesman	*	Hardcover	*	Drama	*	true
-Miller	*	 Jack	*	Food and Beverage Cost Control	*	Hardcover	*	Textbook	*	true
-Milton	*	 John 	*	Paradise Lost and Paradise Regained	*	Hardcover	*	Poetry	*	true
+Miller	*	 Arthur	*	Death Of A Salesman	*	Hardcover	*	Drama	*	true
+Miller	*	 Jack	*	Food And Beverage Cost Control	*	Hardcover	*	Textbook	*	true
+Milton	*	 John 	*	Paradise Lost And Paradise Regained	*	Hardcover	*	Poetry	*	true
 Nabokov	*	 Vladimir	*	Ada	*	Hardcover	*	Fiction	*	true
 Nabokov	*	 Vladimir	*	Glory	*	Hardcover	*	Fiction	*	true
 Nabokov	*	 Vladimir	*	Lolita	*	Hardcover	*	Fiction	*	true
-Nordhoff	*	 Charles	*	Mutiny on the Bounty	*	Hardcover	*	Fiction	*	true
-O Brian	*	 Patrick	*	Blue at the Mizzen	*	Hardcover	*	Fiction	*	true
+Nordhoff	*	 Charles	*	Mutiny On The Bounty	*	Hardcover	*	Fiction	*	true
+O'Brian	*	 Patrick	*	Blue At The Mizzen	*	Hardcover	*	Fiction	*	true
 Orwell	*	 George	*	Nineteen Eighty-Four	*	Hardcover	*	Fiction	*	true
 Patterson	*	 Richard North	*	Exile	*	Hardcover	*	Fiction	*	true
 Plato	*		*	The Republic	*	Hardcover	*	Philosophy	*	true
-Plato	*		*	The Works of Plato	*	Hardcover	*	Philosophy	*	true
-Polo	*	 Marco	*	The Travels of Marco Polo	*	Hardcover	*	Memoir	*	true
+Plato	*		*	The Works Of Plato	*	Hardcover	*	Philosophy	*	true
+Polo	*	 Marco	*	The Travels Of Marco Polo	*	Hardcover	*	Memoir	*	true
 Powers	*	 Richard	*	Gain	*	Hardcover	*	Fiction	*	true
-Quinn	*	 Arthur Hobson	*	A History of American Drama from the Civil War to the Present Day	*	Hardcover	*	Criticism	*	true
+Quinn	*	 Arthur Hobson	*	A History Of American Drama From The Civil War To The Present Day	*	Hardcover	*	Criticism	*	true
 Rand	*	 Ayn	*	The Fountainhead	*	Hardcover	*	Fiction	*	true
 Rand	*	 Ayn	*	Anthem	*	Hardcover	*	Fiction	*	true
-Raymo	*	 Chet	*	Skeptics and True Believers	*	Hardcover	*	Philosophy	*	true
-Reichl	*	 Ruth	*	Garlic and Sapphiers	*	Hardcover	*	Memoir	*	true
-Rothfuss	*	 Patrick	*	The Wise Man's Fear	*	Hardcover	*	Fiction	*	true
-Rowling	*	 J.K.	*	Harry Potter and the Chamber of Secrets	*	Hardcover	*	Fiction	*	true
-Rowling	*	 J.K.	*	Harry Potter and the Half-Blood Prince	*	Hardcover	*	Fiction	*	true
+Raymo	*	 Chet	*	Skeptics And True Believers	*	Hardcover	*	Philosophy	*	true
+Reichl	*	 Ruth	*	Garlic And Sapphiers	*	Hardcover	*	Memoir	*	true
+Rothfuss	*	 Patrick	*	The Wise Man'S Fear	*	Hardcover	*	Fiction	*	true
+Rowling	*	 J.K.	*	Harry Potter And The Chamber Of Secrets	*	Hardcover	*	Fiction	*	true
+Rowling	*	 J.K.	*	Harry Potter And The Half-Blood Prince	*	Hardcover	*	Fiction	*	true
 Rusch	*	 Kristine Kathryn	*	The New Rebellion	*	Hardcover	*	Fiction	*	true
-Russell	*	 Bertrand	*	A history of Western Philosophy	*	Hardcover	*	Philosophy	*	true
-Sartre	*	 Paul	*	No Exit and The Flies	*	Hardcover	*	Drama	*	true
+Russell	*	 Bertrand	*	A History Of Western Philosophy	*	Hardcover	*	Philosophy	*	true
+Sartre	*	 Paul	*	No Exit And The Flies	*	Hardcover	*	Drama	*	true
 Scott	*	 Sir Walter	*	Ivanhoe	*	Hardcover	*	Fiction	*	true
 Seton	*	 Anya	*	Avalon	*	Hardcover	*	Fiction	*	true
-Shakespeare	*	 William	*	The Complete Works of William Shakespeare	*	Hardcover	*	Drama	*	false
+Shakespeare	*	 William	*	The Complete Works Of William Shakespeare	*	Hardcover	*	Drama	*	false
 Smith	*	 Martin Cruz	*	Gorky Park	*	Hardcover	*	Fiction	*	true
-Stevenson	*	 Robert Louis	*	Dr. Jekyll and Mr. Hyde and Other Famous Tales	*	Hardcover	*	Fiction	*	true
-Stirling	*	 S.M.	*	The Sword of the Lady	*	Hardcover	*	Fiction	*	true
+Stevenson	*	 Robert Louis	*	Dr. Jekyll And Mr. Hyde And Other Famous Tales	*	Hardcover	*	Fiction	*	true
+Stirling	*	 S.M.	*	The Sword Of The Lady	*	Hardcover	*	Fiction	*	true
 Stirling	*	 S.M.	*	The Sunrise Lands	*	Hardcover	*	Fiction	*	true
-Stowe	*	 Harriet Beecher	*	Uncle Tom's Cabin	*	Hardcover	*	Fiction	*	true
-Thomas	*	 Henry	*	Understanding the Great Philosophers	*	Hardcover	*	Philosophy	*	true
-Thoreau	*	 Henry David	*	Walden and Other Writings	*	Hardcover	*	Philosophy	*	true
+Stowe	*	 Harriet Beecher	*	Uncle Tom'S Cabin	*	Hardcover	*	Fiction	*	true
+Thomas	*	 Henry	*	Understanding The Great Philosophers	*	Hardcover	*	Philosophy	*	true
+Thoreau	*	 Henry David	*	Walden And Other Writings	*	Hardcover	*	Philosophy	*	true
 Vachss	*	 Andrew	*	Batman: The Ultimate Evil	*	Hardcover	*	Fiction	*	true
 Virgil	*		*	The Aeneid	*	Hardcover	*	Poetry	*	true
-Vonnegut	*	 Kurt Jr.	*	Armageddon in Retrospect	*	Hardcover	*	Fiction	*	true
+Vonnegut	*	 Kurt Jr.	*	Armageddon In Retrospect	*	Hardcover	*	Fiction	*	true
 Waters	*	 Alic	*	The Chez Panisse Menu Cookbook	*	Hardcover	*	Cookbook	*	true
 Weber	*	 David	*	A Mightly Fortress	*	Hardcover	*	Fiction	*	true
 Wells	*	 H.G.	*	Four Complete Novels	*	Hardcover	*	Fiction	*	true
 Wharton	*	 Edith	*	Novels	*	Hardcover	*	Fiction	*	true
-Williams	*	 Oscar (Ed)	*	The Mentor Book of Major American Poets	*	Hardcover	*	Poetry	*	true
-Wouk	*	 Hermann	*	War and Rememberance	*	Hardcover	*	Fiction	*	true
+Williams	*	 Oscar (Ed)	*	The Mentor Book Of Major American Poets	*	Hardcover	*	Poetry	*	true
+Wouk	*	 Hermann	*	War And Rememberance	*	Hardcover	*	Fiction	*	true
 Wouk	*	 Hermann	*	The Caine Mutiny	*	Hardcover	*	Fiction	*	true
-Wouk	*	 Hermann	*	The Winds of War	*	Hardcover	*	Fiction	*	true
+Wouk	*	 Hermann	*	The Winds Of War	*	Hardcover	*	Fiction	*	true
 Zahn	*	 Timothy	*	Heir To The Empire	*	Hardcover	*	Fiction	*	true
 Zahn	*	 Timothy	*	Dark Force Rising	*	Hardcover	*	Fiction	*	true
 Zahn	*	 Timothy	*	The Last Command	*	Hardcover	*	Fiction	*	true
 Zahn	*	 Timothy	*	Allegiance	*	Hardcover	*	Fiction	*	true
 Zahn	*	 Timothy	*	Angelmass	*	Hardcover	*	Fiction	*	false
-Zola	*	 Emile	*	Piping Hot and Other Stories	*	Hardcover	*	Fiction	*	true
+Zola	*	 Emile	*	Piping Hot And Other Stories	*	Hardcover	*	Fiction	*	true
 Zola	*	 Emile	*	Best Known Works	*	Hardcover	*	Fiction	*	true
-Dick	*	 Phillip K	*	Four Novels of the 1960's	*	Hardcover	*	Fiction	*	false
+Dick	*	 Phillip K	*	Four Novels Of The 1960'S	*	Hardcover	*	Fiction	*	false
 Abnett	*	 Dan	*	Horus Rising	*	Paperback	*	Fiction	*	true
 Abnett	*	 Dan	*	Legion	*	Paperback	*	Fiction	*	true
 Adams	*	 Douglas	*	Mostly Harmless	*	Paperback	*	Fiction	*	true
 Adams	*	 Richard	*	Watership Down	*	Paperback	*	Fiction	*	true
-Alexander	*	 Lloyd	*	The Castle of Llyr	*	Paperback	*	Fiction	*	true
+Alexander	*	 Lloyd	*	The Castle Of Llyr	*	Paperback	*	Fiction	*	true
 Alexander	*	 Lloyd	*	Taran Wanderer	*	Paperback	*	Fiction	*	true
 Alexander	*	 Lloyd	*	The High King	*	Paperback	*	Fiction	*	true
 Alexander	*	 Lloyd	*	Westmark	*	Paperback	*	Fiction	*	true
-Anderson	*	 Kevin	*	The Map of All Things	*	Paperback	*	Fiction	*	true
-Anderson	*	 Kevin	*	Delusions of Graneur	*	Paperback	*	Fiction	*	true
+Anderson	*	 Kevin	*	The Map Of All Things	*	Paperback	*	Fiction	*	true
+Anderson	*	 Kevin	*	Delusions Of Graneur	*	Paperback	*	Fiction	*	true
 Aristotle	*		*	Nichomachean Ethics	*	Paperback	*	Philosophy	*	true
-Asimov	*	 Isaac	*	Nightfall, and other stories	*	Paperback	*	Fiction	*	true
+Asimov	*	 Isaac	*	Nightfall, And Other Stories	*	Paperback	*	Fiction	*	true
 Asimov	*	 Isaac	*	Gold	*	Paperback	*	Fiction	*	true
-Asimov	*	 Isaac	*	Forward the Foundation	*	Paperback	*	Fiction	*	true
-Asimov	*	 Isaac	*	Prelude to Foundation	*	Paperback	*	Fiction	*	true
-Asimov	*	 Isaac	*	Foundation and Earth	*	Paperback	*	Fiction	*	true
-Asimov	*	 Isaac	*	Lucky Starr and the Oceans of Venus	*	Paperback	*	Fiction	*	true
-Asimov	*	 Isaac	*	Lucky Starr and the Pirates of the Asteroids	*	Paperback	*	Fiction	*	true
-Asimov	*	 Isaac	*	Lucky Starr and the Big Sun of Mercury	*	Paperback	*	Fiction	*	true
+Asimov	*	 Isaac	*	Forward The Foundation	*	Paperback	*	Fiction	*	true
+Asimov	*	 Isaac	*	Prelude To Foundation	*	Paperback	*	Fiction	*	true
+Asimov	*	 Isaac	*	Foundation And Earth	*	Paperback	*	Fiction	*	true
+Asimov	*	 Isaac	*	Lucky Starr And The Oceans Of Venus	*	Paperback	*	Fiction	*	true
+Asimov	*	 Isaac	*	Lucky Starr And The Pirates Of The Asteroids	*	Paperback	*	Fiction	*	true
+Asimov	*	 Isaac	*	Lucky Starr And The Big Sun Of Mercury	*	Paperback	*	Fiction	*	true
 Asimov	*	 Isaac	*	David Starr, Space Ranger	*	Paperback	*	Fiction	*	true
-Asimov	*	 Isaac	*	The Caves of Steel	*	Paperback	*	Fiction	*	true
-Asimov	*	 Isaac	*	The Rest of the Robots	*	Paperback	*	Fiction	*	true
-Asimov	*	 Isaac	*	Asimov's Mysteries	*	Paperback	*	Fiction	*	true
+Asimov	*	 Isaac	*	The Caves Of Steel	*	Paperback	*	Fiction	*	true
+Asimov	*	 Isaac	*	The Rest Of The Robots	*	Paperback	*	Fiction	*	true
+Asimov	*	 Isaac	*	Asimov'S Mysteries	*	Paperback	*	Fiction	*	true
 Asimov	*	 Isaac	*	The Stars Like Dust	*	Paperback	*	Fiction	*	true
-Asimov	*	 Isaac	*	A Whiff of Death	*	Paperback	*	Fiction	*	true
-Asimov	*	 Isaac	*	The Currents of Space	*	Paperback	*	Fiction	*	true
+Asimov	*	 Isaac	*	A Whiff Of Death	*	Paperback	*	Fiction	*	true
+Asimov	*	 Isaac	*	The Currents Of Space	*	Paperback	*	Fiction	*	true
 Asimov	*	 Isaac	*	Fantastic Voyage	*	Paperback	*	Fiction	*	true
 Asimov	*	 Isaac	*	Atom	*	Paperback	*	Non-Fiction	*	true
 Barker	*	 Erndest (ED)	*	Social Contractl; Locke, Hume, Rousseau	*	Paperback	*	Philosophy	*	true
-Barry	*	 Dave	*	Dave Barry's Greatest Hits	*	Paperback	*	Humor	*	true
-Barzun	*	 Jaques	*	The House of Intellect	*	Paperback	*	Philosophy	*	true
-Bayley	*	 Barrington J	*	Eye of Teror	*	Paperback	*	Fiction	*	true
-Boethius	*		*	The Consolation of Philosophy	*	Paperback	*	Philosophy	*	true
-Cairns	*	 trevor	*	The Birth of Modern Europe	*	Paperback	*	Non-Fiction	*	true
+Barry	*	 Dave	*	Dave Barry'S Greatest Hits	*	Paperback	*	Humor	*	true
+Barzun	*	 Jaques	*	The House Of Intellect	*	Paperback	*	Philosophy	*	true
+Bayley	*	 Barrington J	*	Eye Of Teror	*	Paperback	*	Fiction	*	true
+Boethius	*		*	The Consolation Of Philosophy	*	Paperback	*	Philosophy	*	true
+Cairns	*	 trevor	*	The Birth Of Modern Europe	*	Paperback	*	Non-Fiction	*	true
 Calvino	*	 Italo	*	Invisible Cities	*	Paperback	*	Fiction	*	true
 Calvino	*	 Italo	*	T Zero	*	Paperback	*	Fiction	*	true
-Calvino	*	 Italo	*	The Baron in the Trees	*	Paperback	*	Fiction	*	true
-Camus	*	 Albert	*	The Myth of Sisyphus	*	Paperback	*	Philosophy	*	true
+Calvino	*	 Italo	*	The Baron In The Trees	*	Paperback	*	Fiction	*	true
+Camus	*	 Albert	*	The Myth Of Sisyphus	*	Paperback	*	Philosophy	*	true
 Camus	*	 Albert	*	The Plague	*	Paperback	*	Fiction	*	true
 Camus	*	 Albert	*	The Stranger	*	Paperback	*	Fiction	*	true
-Card	*	 Orson Scott	*	Ender's Game	*	Paperback	*	Fiction	*	false
-Card	*	 Orson Scott	*	Speaker for the Dead	*	Paperback	*	Fiction	*	true
+Card	*	 Orson Scott	*	Ender'S Game	*	Paperback	*	Fiction	*	false
+Card	*	 Orson Scott	*	Speaker For The Dead	*	Paperback	*	Fiction	*	true
 Card	*	 Orson Scott	*	Xenocide	*	Paperback	*	Fiction	*	false
 Card	*	 Orson Scott	*	The Abyss	*	Paperback	*	Fiction	*	true
 Clarke	*	 Arthur C.	*	2001; A Space Odyssey	*	Paperback	*	Fiction	*	true
-Cohen	*	 I. David	*	Prospect or Perish	*	Paperback	*	Textbook	*	true
-Counter	*	 Ben	*	Galaxy in Flames	*	Paperback	*	Fiction	*	true
+Cohen	*	 I. David	*	Prospect Or Perish	*	Paperback	*	Textbook	*	true
+Counter	*	 Ben	*	Galaxy In Flames	*	Paperback	*	Fiction	*	true
 Crispin	*	 A. C.	*	The Paradise Snare	*	Paperback	*	Fiction	*	true
 Dahl	*	 Roald	*	Boy	*	Paperback	*	Fiction	*	true
-David	*	 Irene Clark	*	Your Life Your Legacy; Fundamentals of Effective Estate Planning	*	Paperback	*	Non-Fiction	*	true
-Descartes	*	 Emile	*	Discourse on Method	*	Paperback	*	Philosophy	*	true
+David	*	 Irene Clark	*	Your Life Your Legacy; Fundamentals Of Effective Estate Planning	*	Paperback	*	Non-Fiction	*	true
+Descartes	*	 Emile	*	Discourse On Method	*	Paperback	*	Philosophy	*	true
 Dostoevsky	*	 Fyodor	*	The Possessed	*	Paperback	*	Fiction	*	true
 Dostoevsky	*	 Fyodor	*	The Idiot	*	Paperback	*	Fiction	*	true
-Dostoevsky	*	 Fyodor	*	Notes from Underground	*	Paperback	*	Fiction	*	true
+Dostoevsky	*	 Fyodor	*	Notes From Underground	*	Paperback	*	Fiction	*	true
 Dostoevsky	*	 Fyodor	*	The Adolescent	*	Paperback	*	Fiction	*	true
-Dostoevsky	*	 Fyodor	*	The House of the Dead	*	Paperback	*	Fiction	*	true
-Doyle	*	 Sir Arthur Conan	*	Sherlock Holmes, The Complete Novels and Stories Vol. 1	*	Paperback	*	Fiction	*	true
-Doyle	*	 Sir Arthur Conan	*	Sherlock Holmes, The Complete Novels and Stories Vol. 2	*	Paperback	*	Fiction	*	true
-Doyle	*	 Sir Arthur Conan	*	The Exploits of the Brigadier Gerard	*	Paperback	*	Fiction	*	true
+Dostoevsky	*	 Fyodor	*	The House Of The Dead	*	Paperback	*	Fiction	*	true
+Doyle	*	 Sir Arthur Conan	*	Sherlock Holmes, The Complete Novels And Stories Vol. 1	*	Paperback	*	Fiction	*	true
+Doyle	*	 Sir Arthur Conan	*	Sherlock Holmes, The Complete Novels And Stories Vol. 2	*	Paperback	*	Fiction	*	true
+Doyle	*	 Sir Arthur Conan	*	The Exploits Of The Brigadier Gerard	*	Paperback	*	Fiction	*	true
 Doyle	*	 Sir Arthur Conan	*	Sir Nigel	*	Paperback	*	Fiction	*	true
-Doyle	*	 Sir Arthur Conan	*	The Hound of the Baskervilles	*	Paperback	*	Fiction	*	true
+Doyle	*	 Sir Arthur Conan	*	The Hound Of The Baskervilles	*	Paperback	*	Fiction	*	true
 Doyle	*	 Sir Arthur Conan	*	Maricot Deep	*	Paperback	*	Fiction	*	true
-Duane	*	 Diane	*	So You Want to be a Wizard	*	Paperback	*	Fiction	*	true
+Duane	*	 Diane	*	So You Want To Be A Wizard	*	Paperback	*	Fiction	*	true
 Duane	*	 Diane	*	Deep Wizardry	*	Paperback	*	Fiction	*	true
 Duane	*	 Diane	*	High Wizardry	*	Paperback	*	Fiction	*	true
 Dumas	*	 Alexandre	*	The Three Musketeer	*	Paperback	*	Fiction	*	true
 Dunn	*	 Katherine	*	Geek Love	*	Paperback	*	Fiction	*	true
-Durkheim	*	 Emile	*	Division of Labor in Society	*	Paperback	*	Non-Fiction	*	true
-Earl	*	 Robert	*	The Adventrures of Florin and Lorenzo	*	Paperback	*	Fiction	*	true
-Erasmus	*	 Desderius	*	The Praise of Folly	*	Paperback	*	Philosophy	*	true
+Durkheim	*	 Emile	*	Division Of Labor In Society	*	Paperback	*	Non-Fiction	*	true
+Earl	*	 Robert	*	The Adventrures Of Florin And Lorenzo	*	Paperback	*	Fiction	*	true
+Erasmus	*	 Desderius	*	The Praise Of Folly	*	Paperback	*	Philosophy	*	true
 Fatsis	*	 Stephen	*	Word Freaks	*	Paperback	*	Memoir	*	true
-Feintuch	*	 David	*	Midshipman's Hope	*	Paperback	*	Fiction	*	false
+Feintuch	*	 David	*	Midshipman'S Hope	*	Paperback	*	Fiction	*	false
 Feintuch	*	 David	*	Prisoners Hope	*	Paperback	*	Fiction	*	true
-Feintuch	*	 David	*	Challenger's Hope	*	Paperback	*	Fiction	*	true
-Feintuch	*	 David	*	Fisherman's Hope	*	Paperback	*	Fiction	*	true
-Feintuch	*	 David	*	Patriarch's Hope	*	Paperback	*	Fiction	*	true
-Feintuch	*	 David	*	Voices of Hope	*	Paperback	*	Fiction	*	true
-Feynman	*	 Richard P	*	Surely You're Joking Mr Feynman; Adventures of a Curious Character	*	Paperback	*	Memoir	*	true
-Feynman	*	 Richard P	*	Whay do YOU Care What Other People Think?; Further Adventures of a Curious Character	*	Paperback	*	Memoir	*	true
+Feintuch	*	 David	*	Challenger'S Hope	*	Paperback	*	Fiction	*	true
+Feintuch	*	 David	*	Fisherman'S Hope	*	Paperback	*	Fiction	*	true
+Feintuch	*	 David	*	Patriarch'S Hope	*	Paperback	*	Fiction	*	true
+Feintuch	*	 David	*	Voices Of Hope	*	Paperback	*	Fiction	*	true
+Feynman	*	 Richard P	*	Surely You'Re Joking Mr Feynman; Adventures Of A Curious Character	*	Paperback	*	Memoir	*	true
+Feynman	*	 Richard P	*	Whay Do You Care What Other People Think?; Further Adventures Of A Curious Character	*	Paperback	*	Memoir	*	true
 Fitzgerald	*	 John D	*	The Great Brain	*	Paperback	*	Fiction	*	true
-Fitzgerald	*	 John D	*	More adventures of the Great Brain	*	Paperback	*	Fiction	*	true
+Fitzgerald	*	 John D	*	More Adventures Of The Great Brain	*	Paperback	*	Fiction	*	true
 Flaubert	*	 Gustave	*	Salammbo	*	Paperback	*	Fiction	*	true
 Flaubert	*	 Gustave	*	Sentimental Education	*	Paperback	*	Fiction	*	true
 Flaubert	*	 Gustave	*	Three Tales	*	Paperback	*	Fiction	*	true
-Fleming	*	 Ian	*	On Her Majesty's Secret Service	*	Paperback	*	Fiction	*	true
+Fleming	*	 Ian	*	On Her Majesty'S Secret Service	*	Paperback	*	Fiction	*	true
 Fleming	*	 Ian	*	You Only Live Twice	*	Paperback	*	Fiction	*	true
 Fleming	*	 Ian	*	Moonraker	*	Paperback	*	Fiction	*	true
 Fleming	*	 Ian	*	Doctor No	*	Paperback	*	Fiction	*	true
@@ -281,254 +281,254 @@ Fleming	*	 Ian	*	Thunderball	*	Paperback	*	Fiction	*	true
 Forbeck	*	 Matt	*	Blood Bowl	*	Paperback	*	Fiction	*	true
 Frasier	*	 George MacDonald	*	Flashman	*	Paperback	*	Fiction	*	false
 Gaarder	*	 Jostein	*	The Solitaire Mystery	*	Paperback	*	Fiction	*	true
-Gaarder	*	 Jostein	*	Sophie's World	*	Paperback	*	Fiction	*	true
+Gaarder	*	 Jostein	*	Sophie'S World	*	Paperback	*	Fiction	*	true
 Gascoine	*	 Marc	*	Dark Imperium	*	Paperback	*	Fiction	*	true
 Heilbroner	*	 Robert	*	The Worldly Philopsophers	*	Paperback	*	Philosophy	*	true
 Herndon	*	 Cory	*	Guildpact	*	Paperback	*	Fiction	*	true
-Hesse	*	 Hermann	*	The Fairy Tales of Hermann Hesse	*	Paperback	*	Fiction	*	true
+Hesse	*	 Hermann	*	The Fairy Tales Of Hermann Hesse	*	Paperback	*	Fiction	*	true
 Hobb	*	 Robin	*	Royal Assassin	*	Paperback	*	Fiction	*	true
 Hobbes	*	 Thomas	*	Leviathan	*	Paperback	*	Philosophy	*	true
 Hogg	*	 Ian	*	Twentieth Century Artillery	*	Paperback	*	Non-Fiction	*	true
-Hume	*	 David	*	Of the Standard of Taste and Other Essays	*	Paperback	*	Philosophy	*	true
+Hume	*	 David	*	Of The Standard Of Taste And Other Essays	*	Paperback	*	Philosophy	*	true
 Jaques	*	 Brian	*	Mattimeo	*	Paperback	*	Fiction	*	true
-Jaques	*	 Brian	*	Mariel of Redwall	*	Paperback	*	Fiction	*	true
-Jaques	*	 Brian	*	Pearls of Lutira	*	Paperback	*	Fiction	*	true
-Jaques	*	 Brian	*	The Legend of Luke	*	Paperback	*	Fiction	*	true
+Jaques	*	 Brian	*	Mariel Of Redwall	*	Paperback	*	Fiction	*	true
+Jaques	*	 Brian	*	Pearls Of Lutira	*	Paperback	*	Fiction	*	true
+Jaques	*	 Brian	*	The Legend Of Luke	*	Paperback	*	Fiction	*	true
 Jeter	*	 K.W.	*	The Mandalorian Armor	*	Paperback	*	Fiction	*	true
 Jeter	*	 K.W.	*	Hard Merchandise	*	Paperback	*	Fiction	*	true
-Jeter	*	 K.W.	*	Blade Runner 2: The Edge of Human	*	Paperback	*	Fiction	*	true
+Jeter	*	 K.W.	*	Blade Runner 2: The Edge Of Human	*	Paperback	*	Fiction	*	true
 Joseph	*	 Franz	*	Star Fleet Technical Manual	*	Paperback	*	Geekdom	*	true
 Joyce	*	 James	*	Ulysses	*	Paperback	*	Fiction	*	true
-Joyce	*	 James	*	Portrait of the Artist as a Young Man	*	Paperback	*	Fiction	*	true
+Joyce	*	 James	*	Portrait Of The Artist As A Young Man	*	Paperback	*	Fiction	*	true
 Joyce	*	 James	*	Dubliners	*	Paperback	*	Fiction	*	true
 Kafka	*	 Franz	*	The Complete Stories	*	Paperback	*	Fiction	*	true
 Kafka	*	 Franz	*	The Castle	*	Paperback	*	Fiction	*	true
 Kerouac	*	 Jack	*	On The Road	*	Paperback	*	Fiction	*	true
 Kidd	*	 Paul	*	White Plume Mountain	*	Paperback	*	Fiction	*	true
 King	*	 Stephen	*	The Wind Through The Keyhole	*	Paperback	*	Fiction	*	true
-King	*	 Stephen	*	Salem's Lot	*	Paperback	*	Fiction	*	true
+King	*	 Stephen	*	Salem'S Lot	*	Paperback	*	Fiction	*	true
 King	*	 Stephen	*	The Stand	*	Paperback	*	Fiction	*	true
 King	*	 William	*	Space Wolf	*	Paperback	*	Fiction	*	true
-Knaak	*	 Richard A.	*	The Legend of Huma	*	Paperback	*	Fiction	*	true
+Knaak	*	 Richard A.	*	The Legend Of Huma	*	Paperback	*	Fiction	*	true
 Kooser	*	 Ted	*	Weather Central	*	Paperback	*	Poetry	*	true
 Kosinski	*	 Jerzy	*	Being There	*	Paperback	*	Fiction	*	true
 Kosinski	*	 Jerzy	*	The Devil Tree	*	Paperback	*	Fiction	*	true
-Kundera	*	 Milan	*	The Book of Laughter and Forgetting	*	Paperback	*	Fiction	*	true
-Lamford	*	 Paul	*	Starting Out in Backgammon	*	Paperback	*	Non-Fiction	*	true
+Kundera	*	 Milan	*	The Book Of Laughter And Forgetting	*	Paperback	*	Fiction	*	true
+Lamford	*	 Paul	*	Starting Out In Backgammon	*	Paperback	*	Non-Fiction	*	true
 LeGuin	*	 Ursula	*	Always Coming Hom	*	Paperback	*	Fiction	*	true
 LeGuin	*	 Ursula	*	Cat Wings	*	Paperback	*	Fiction	*	true
-LeGuin	*	 Ursula	*	The Left Hand of Darkness	*	Paperback	*	Fiction	*	true
+LeGuin	*	 Ursula	*	The Left Hand Of Darkness	*	Paperback	*	Fiction	*	true
 LeGuin	*	 Ursula	*	Tehanu	*	Paperback	*	Fiction	*	true
 LeGuin	*	 Ursula	*	The Farthest Shore	*	Paperback	*	Fiction	*	true
 LeGuin	*	 Ursula	*	Orsinian Tales	*	Paperback	*	Fiction	*	true
-LEngle	*	 Madelene	*	A Swiftly Tilting Planet	*	Paperback	*	Fiction	*	true
-LEngle	*	 Madelene	*	A Wind in the Door	*	Paperback	*	Fiction	*	true
-LEngle	*	 Madelene	*	A Wrinkle in Time	*	Paperback	*	Fiction	*	false
+L'Engle	*	 Madelene	*	A Swiftly Tilting Planet	*	Paperback	*	Fiction	*	true
+L'Engle	*	 Madelene	*	A Wind In The Door	*	Paperback	*	Fiction	*	true
+L'Engle	*	 Madelene	*	A Wrinkle In Time	*	Paperback	*	Fiction	*	false
 Lessing	*	 Doris	*	Shikasta	*	Paperback	*	Fiction	*	true
-Lethem	*	 Jonathan	*	The Fortress of Solitude	*	Paperback	*	Fiction	*	true
-Lewis	*	 C. S.	*	The Problem of Pain	*	Paperback	*	Essays	*	true
-Lewis	*	 C. S.	*	The Lion, The Witch, and the Wardrobe	*	Paperback	*	Fiction	*	true
+Lethem	*	 Jonathan	*	The Fortress Of Solitude	*	Paperback	*	Fiction	*	true
+Lewis	*	 C. S.	*	The Problem Of Pain	*	Paperback	*	Essays	*	true
+Lewis	*	 C. S.	*	The Lion, The Witch, And The Wardrobe	*	Paperback	*	Fiction	*	true
 Lewis	*	 C. S.	*	Prince Caspian	*	Paperback	*	Fiction	*	true
-Lewis	*	 C. S.	*	The Voyage of the Dawn Treader	*	Paperback	*	Fiction	*	true
+Lewis	*	 C. S.	*	The Voyage Of The Dawn Treader	*	Paperback	*	Fiction	*	true
 Lewis	*	 C. S.	*	The Silver Chair	*	Paperback	*	Fiction	*	true
-Lewis	*	 C. S.	*	The Horse and His Boy	*	Paperback	*	Fiction	*	true
-Lewis	*	 C. S.	*	The Magician's Nephew	*	Paperback	*	Fiction	*	false
+Lewis	*	 C. S.	*	The Horse And His Boy	*	Paperback	*	Fiction	*	true
+Lewis	*	 C. S.	*	The Magician'S Nephew	*	Paperback	*	Fiction	*	false
 Lewis	*	 C. S.	*	The Last Battle	*	Paperback	*	Fiction	*	true
 Lewis	*	 C. S.	*	The Screwtape Letters	*	Paperback	*	Fiction	*	true
-Lewis	*	 C. S.	*	Out of the Silent Planet	*	Paperback	*	Fiction	*	true
+Lewis	*	 C. S.	*	Out Of The Silent Planet	*	Paperback	*	Fiction	*	true
 Lewis	*	 C. S.	*	Perelandra	*	Paperback	*	Fiction	*	true
 Lewis	*	 C. S.	*	That Hideous Strength	*	Paperback	*	Fiction	*	true
-Locke	*	 John	*	Two Treatises of Government	*	Paperback	*	Philosophy	*	true
-Lynch	*	 Kevin	*	Fundamentals of Insurance Planning Supplement	*	Paperback	*	Non-Fiction	*	true
-Lynch	*	 Kevin	*	Prospect or Perish Workbook	*	Paperback	*	Textbook	*	true
+Locke	*	 John	*	Two Treatises Of Government	*	Paperback	*	Philosophy	*	true
+Lynch	*	 Kevin	*	Fundamentals Of Insurance Planning Supplement	*	Paperback	*	Non-Fiction	*	true
+Lynch	*	 Kevin	*	Prospect Or Perish Workbook	*	Paperback	*	Textbook	*	true
 Machiavelli	*	 Niccolo	*	The Prince	*	Paperback	*	Philosophy	*	true
-Mailer	*	 Norman	*	The Armies of Night	*	Paperback	*	Fiction	*	true
-Maloba	*	 Wunyabari O.	*	Mau Mau and Kenya; An Analysis of a Peasant Revolt	*	Paperback	*	Non-Fiction	*	true
-Marquez	*	 Gabriel Garcia	*	Love in the Time of Cholera	*	Paperback	*	Fiction	*	true
-Marquez	*	 Gabriel Garcia	*	Chronicle of a Death Foretold	*	Paperback	*	Fiction	*	true
-Martin	*	 George R.R.	*	A Game of Thrones	*	Paperback	*	Fiction	*	false
-Martin	*	 George R.R.	*	A Storm of Swords	*	Paperback	*	Fiction	*	true
-Martin	*	 George R.R.	*	A Feast for Crows	*	Paperback	*	Fiction	*	true
-Martin	*	 George R.R.	*	A Dance of Dragons	*	Paperback	*	Fiction	*	false
-Maugham	*	 Sommerset	*	The Moon and Sixpence	*	Paperback	*	Fiction	*	true
-Maugham	*	 Sommerset	*	Cakes and Ale	*	Paperback	*	Fiction	*	true
+Mailer	*	 Norman	*	The Armies Of Night	*	Paperback	*	Fiction	*	true
+Maloba	*	 Wunyabari O.	*	Mau Mau And Kenya; An Analysis Of A Peasant Revolt	*	Paperback	*	Non-Fiction	*	true
+Marquez	*	 Gabriel Garcia	*	Love In The Time Of Cholera	*	Paperback	*	Fiction	*	true
+Marquez	*	 Gabriel Garcia	*	Chronicle Of A Death Foretold	*	Paperback	*	Fiction	*	true
+Martin	*	 George R.R.	*	A Game Of Thrones	*	Paperback	*	Fiction	*	false
+Martin	*	 George R.R.	*	A Storm Of Swords	*	Paperback	*	Fiction	*	true
+Martin	*	 George R.R.	*	A Feast For Crows	*	Paperback	*	Fiction	*	true
+Martin	*	 George R.R.	*	A Dance Of Dragons	*	Paperback	*	Fiction	*	false
+Maugham	*	 Sommerset	*	The Moon And Sixpence	*	Paperback	*	Fiction	*	true
+Maugham	*	 Sommerset	*	Cakes And Ale	*	Paperback	*	Fiction	*	true
 Maugham	*	 Sommerset	*	Of Human Bondage	*	Paperback	*	Fiction	*	true
 McGough	*	 Scott	*	Time Spiral	*	Paperback	*	Fiction	*	true
 McNeill	*	 Graham	*	False Gods	*	Paperback	*	Fiction	*	true
 McNeill	*	 Graham	*	Fulgrim	*	Paperback	*	Fiction	*	true
-McNeill	*	 Graham	*	Warriors of Ultramar	*	Paperback	*	Fiction	*	true
-Megill	*	 Allan	*	Prophets of Extemity; Nietzche, Heidegger, Foucault, Derrida	*	Paperback	*	Philosophy	*	true
-Michael Scanlon	*		*	Descent of Angels	*	Paperback	*	Fiction	*	true
+McNeill	*	 Graham	*	Warriors Of Ultramar	*	Paperback	*	Fiction	*	true
+Megill	*	 Allan	*	Prophets Of Extemity; Nietzche, Heidegger, Foucault, Derrida	*	Paperback	*	Philosophy	*	true
+Michael Scanlon	*		*	Descent Of Angels	*	Paperback	*	Fiction	*	true
 Mill	*	 John Stuart	*	On Liberty	*	Paperback	*	Philosophy	*	true
 Mill	*	 John Stuart	*	Utilitarianism	*	Paperback	*	Philosophy	*	true
-Modesitt	*	 L.E. Jr	*	The Magic of Recluse	*	Paperback	*	Fiction	*	true
-Modesitt	*	 L.E. Jr	*	The Towers of the Sunset	*	Paperback	*	Fiction	*	true
+Modesitt	*	 L.E. Jr	*	The Magic Of Recluse	*	Paperback	*	Fiction	*	true
+Modesitt	*	 L.E. Jr	*	The Towers Of The Sunset	*	Paperback	*	Fiction	*	true
 Nabokov	*	 Vladimir	*	The Defense	*	Paperback	*	Fiction	*	true
 Nabokov	*	 Vladimir	*	Pnin	*	Paperback	*	Fiction	*	true
 Nabokov	*	 Vladimir	*	Pale Fire	*	Paperback	*	Fiction	*	true
-Neitzsche	*	 Friedrich	*	Beyond Good and Evil	*	Paperback	*	Philosophy	*	true
-Niffenegger	*	 Audrey	*	The Time Traveler's Wife	*	Paperback	*	Fiction	*	true
+Neitzsche	*	 Friedrich	*	Beyond Good And Evil	*	Paperback	*	Philosophy	*	true
+Niffenegger	*	 Audrey	*	The Time Traveler'S Wife	*	Paperback	*	Fiction	*	true
 Nimoy	*	 Leonard	*	I Am Spock	*	Paperback	*	Memoir	*	true
 Niven	*	 Larry	*	Lucifers Hammer	*	Paperback	*	Fiction	*	true
-Nordhoff	*	 Charles	*	Pitcairn's Island	*	Paperback	*	Fiction	*	true
-O Brian	*	 Patrick	*	The Nutmeg of Consolation	*	Paperback	*	Fiction	*	true
-O Brian	*	 Patrick	*	Master and Commander	*	Paperback	*	Fiction	*	false
-O Brian	*	 Patrick	*	The Far Side of the World	*	Paperback	*	Fiction	*	true
-O Brian	*	 Patrick	*	Post Captain	*	Paperback	*	Fiction	*	true
-O Brian	*	 Patrick	*	The Wine-Dark Sea	*	Paperback	*	Fiction	*	true
-O Brian	*	 Patrick	*	H.M.S. Surprise	*	Paperback	*	Fiction	*	true
-O Brian	*	 Patrick	*	The Mauritian Command	*	Paperback	*	Fiction	*	true
-O Brian	*	 Patrick	*	Desolation Island	*	Paperback	*	Fiction	*	true
-O Brian	*	 Patrick	*	Fortune of War	*	Paperback	*	Fiction	*	true
-O Brian	*	 Patrick	*	The Surgeon's Mate	*	Paperback	*	Fiction	*	true
-O Brian	*	 Patrick	*	The Ionian Mission	*	Paperback	*	Fiction	*	true
-O Brian	*	 Patrick	*	Treason's Harbour	*	Paperback	*	Fiction	*	true
-O Connor	*	 Flennery	*	A Good Man is Hard To Find	*	Paperback	*	Fiction	*	true
+Nordhoff	*	 Charles	*	Pitcairn'S Island	*	Paperback	*	Fiction	*	true
+O'Brian	*	 Patrick	*	The Nutmeg Of Consolation	*	Paperback	*	Fiction	*	true
+O'Brian	*	 Patrick	*	Master And Commander	*	Paperback	*	Fiction	*	false
+O'Brian	*	 Patrick	*	The Far Side Of The World	*	Paperback	*	Fiction	*	true
+O'Brian	*	 Patrick	*	Post Captain	*	Paperback	*	Fiction	*	true
+O'Brian	*	 Patrick	*	The Wine-Dark Sea	*	Paperback	*	Fiction	*	true
+O'Brian	*	 Patrick	*	H.M.S. Surprise	*	Paperback	*	Fiction	*	true
+O'Brian	*	 Patrick	*	The Mauritian Command	*	Paperback	*	Fiction	*	true
+O'Brian	*	 Patrick	*	Desolation Island	*	Paperback	*	Fiction	*	true
+O'Brian	*	 Patrick	*	Fortune Of War	*	Paperback	*	Fiction	*	true
+O'Brian	*	 Patrick	*	The Surgeon'S Mate	*	Paperback	*	Fiction	*	true
+O'Brian	*	 Patrick	*	The Ionian Mission	*	Paperback	*	Fiction	*	true
+O'Brian	*	 Patrick	*	Treason'S Harbour	*	Paperback	*	Fiction	*	true
+O'Connor	*	 Flennery	*	A Good Man Is Hard To Find	*	Paperback	*	Fiction	*	true
 Okuda	*	 Michael	*	Star Trek Encyclopedia	*	Paperback	*	Geekdom	*	true
 Orczy	*	 Barroness Emuzka	*	The Scarlet Pimpernel	*	Paperback	*	Fiction	*	true
 Orwell	*	 George	*	Keep The Aspidistra Flying	*	Paperback	*	Fiction	*	true
-Orwell	*	 George	*	The Road to Wigan Pier	*	Paperback	*	Fiction	*	true
-Orwell	*	 George	*	Homage to Catalonia	*	Paperback	*	Memoir	*	false
-Orwell	*	 George	*	Down and Out in Paris and London	*	Paperback	*	Memoir	*	true
+Orwell	*	 George	*	The Road To Wigan Pier	*	Paperback	*	Fiction	*	true
+Orwell	*	 George	*	Homage To Catalonia	*	Paperback	*	Memoir	*	false
+Orwell	*	 George	*	Down And Out In Paris And London	*	Paperback	*	Memoir	*	true
 Orwell	*	 George	*	Burmese Days	*	Paperback	*	Fiction	*	true
 Orwell	*	 George	*	Coming Up For Air	*	Paperback	*	Fiction	*	true
 Orwell	*	 George	*	Animal Farm	*	Paperback	*	Fiction	*	false
 PADI	*		*	Open Water Diver Manual	*	Paperback	*	Textbook	*	true
 Palhniuk	*	 Chuck	*	Choke	*	Paperback	*	Fiction	*	true
 Percy	*	 Walker	*	The Moviegoer	*	Paperback	*	Fiction	*	true
-Perec	*	 Georges	*	Species of Spaces and Other Pieces	*	Paperback	*	Fiction	*	true
-Pope	*	 Alexander	*	An Essay on Man	*	Paperback	*	Philosophy	*	true
-Pratchett	*	 Terry	*	The Dark Side of the Sun	*	Paperback	*	Fiction	*	true
-Rabelais	*	 Francois	*	Gargantua and Pantagruel	*	Paperback	*	Fiction	*	true
+Perec	*	 Georges	*	Species Of Spaces And Other Pieces	*	Paperback	*	Fiction	*	true
+Pope	*	 Alexander	*	An Essay On Man	*	Paperback	*	Philosophy	*	true
+Pratchett	*	 Terry	*	The Dark Side Of The Sun	*	Paperback	*	Fiction	*	true
+Rabelais	*	 Francois	*	Gargantua And Pantagruel	*	Paperback	*	Fiction	*	true
 Rand	*	 Ayn	*	The Early Ayn Rand	*	Paperback	*	Fiction	*	true
 Rand	*	 Ayn	*	We The Living 	*	Paperback	*	Fiction	*	true
 Rand	*	 Ayn	*	Atlas Shrugged	*	Paperback	*	Fiction	*	false
-Reilly	*	 Robert T	*	The Fighting Prince of Donnegal	*	Paperback	*	Fiction	*	true
+Reilly	*	 Robert T	*	The Fighting Prince Of Donnegal	*	Paperback	*	Fiction	*	true
 Rice	*	 Anne	*	Lasher	*	Paperback	*	Fiction	*	true
-Rice	*	 Anne	*	Interview With the Vampier	*	Paperback	*	Fiction	*	true
+Rice	*	 Anne	*	Interview With The Vampier	*	Paperback	*	Fiction	*	true
 Rice	*	 Anne	*	The Vampire Lestat	*	Paperback	*	Fiction	*	true
 Rice	*	 Anne	*	The Vampire Armand	*	Paperback	*	Fiction	*	true
 Richardson	*	 Mike	*	Crimson Empire	*	Paperback	*	Comic Book	*	true
-Rilke	*	 Rainer-Maria	*	The Notebooks of Malte Laurids Brigge	*	Paperback	*	Fiction	*	true
-Robbins	*	 Tom	*	Skinny Legs and All	*	Paperback	*	Fiction	*	true
+Rilke	*	 Rainer-Maria	*	The Notebooks Of Malte Laurids Brigge	*	Paperback	*	Fiction	*	true
+Robbins	*	 Tom	*	Skinny Legs And All	*	Paperback	*	Fiction	*	true
 Robbins	*	 Tom	*	Jitterbug Perfume	*	Paperback	*	Fiction	*	true
-Roberts	*	 Wess	*	Leadership Secrets of Atilla the Hun	*	Paperback	*	Non-Fiction	*	true
-Robinson	*	 William	*	Jack Nastyface: Memoirs of an english seaman	*	Paperback	*	Memoir	*	true
-Roden	*	 Claudia	*	A Book of Middle Eastern Food	*	Paperback	*	Cookbook	*	true
+Roberts	*	 Wess	*	Leadership Secrets Of Atilla The Hun	*	Paperback	*	Non-Fiction	*	true
+Robinson	*	 William	*	Jack Nastyface: Memoirs Of An English Seaman	*	Paperback	*	Memoir	*	true
+Roden	*	 Claudia	*	A Book Of Middle Eastern Food	*	Paperback	*	Cookbook	*	true
 Roth	*	 Philip	*	American Pastoral	*	Paperback	*	Fiction	*	true
-Rothfuss	*	 Patrick	*	The Name of thr Wind	*	Paperback	*	Fiction	*	true
-Rousseau	*	 Jean-Jaques	*	The Social Contract and Discourse on the Origin of Inequality	*	Paperback	*	Philosophy	*	true
+Rothfuss	*	 Patrick	*	The Name Of Thr Wind	*	Paperback	*	Fiction	*	true
+Rousseau	*	 Jean-Jaques	*	The Social Contract And Discourse On The Origin Of Inequality	*	Paperback	*	Philosophy	*	true
 Salvatore	*	 R. A. 	*	Clerics Quintet	*	Paperback	*	Fiction	*	true
-Shakespeare	*	 William	*	Anthony and Cleopatra	*	Paperback	*	Drama	*	true
-Shaw	*	 William	*	Moral Issues in Business	*	Paperback	*	Textbook	*	true
-Silberstang	*	 Edwin	*	Wining Poker for the Serious Player	*	Paperback	*	Non-Fiction	*	true
+Shakespeare	*	 William	*	Anthony And Cleopatra	*	Paperback	*	Drama	*	true
+Shaw	*	 William	*	Moral Issues In Business	*	Paperback	*	Textbook	*	true
+Silberstang	*	 Edwin	*	Wining Poker For The Serious Player	*	Paperback	*	Non-Fiction	*	true
 Slavicsek	*	 Bill	*	Thrawn Trilogy Sourcebook	*	Paperback	*	RPG	*	true
-Smith	*	 Bill	*	The Black Sands of Socorro	*	Paperback	*	RPG	*	true
+Smith	*	 Bill	*	The Black Sands Of Socorro	*	Paperback	*	RPG	*	true
 Stackpole	*	 Michael	*	Fortress Draconis	*	Paperback	*	Fiction	*	true
 Stackpole	*	 Michael	*	X-Wing Rogue Squardon	*	Paperback	*	Fiction	*	true
-Swallow	*	 James	*	The Flight of the Eisenstein	*	Paperback	*	Fiction	*	true
+Swallow	*	 James	*	The Flight Of The Eisenstein	*	Paperback	*	Fiction	*	true
 Thorpe	*	 Gav	*	The Last Chancers	*	Paperback	*	Fiction	*	true
 Turtledove	*	 Harry	*	Worldwar: In The Balance	*	Paperback	*	Fiction	*	true
-Turtledove	*	 Harry	*	Worldwar: Striking the Balance	*	Paperback	*	Fiction	*	true
-Turtledove	*	 Harry	*	Worldwar: Upsetting the Balance	*	Paperback	*	Fiction	*	true
+Turtledove	*	 Harry	*	Worldwar: Striking The Balance	*	Paperback	*	Fiction	*	true
+Turtledove	*	 Harry	*	Worldwar: Upsetting The Balance	*	Paperback	*	Fiction	*	true
 Turtledove	*	 Harry	*	Colonization: Second Contact	*	Paperback	*	Fiction	*	true
-Turtledove	*	 Harry	*	Colonization: Down to Earth	*	Paperback	*	Fiction	*	true
+Turtledove	*	 Harry	*	Colonization: Down To Earth	*	Paperback	*	Fiction	*	true
 Turtledove	*	 Harry	*	Homeward Bound	*	Paperback	*	Fiction	*	true
-Turtledove	*	 Harry	*	Tales of the Fox	*	Paperback	*	Fiction	*	true
-Turtledove	*	 Harry	*	Wisdom of the Fox	*	Paperback	*	Fiction	*	true
-Turtledove	*	 Harry	*	Into the Darkness	*	Paperback	*	Fiction	*	true
+Turtledove	*	 Harry	*	Tales Of The Fox	*	Paperback	*	Fiction	*	true
+Turtledove	*	 Harry	*	Wisdom Of The Fox	*	Paperback	*	Fiction	*	true
+Turtledove	*	 Harry	*	Into The Darkness	*	Paperback	*	Fiction	*	true
 Turtledove	*	 Harry	*	Darkness Descending	*	Paperback	*	Fiction	*	true
-Turtledove	*	 Harry	*	Throught the Darkness	*	Paperback	*	Fiction	*	true
-Turtledove	*	 Harry	*	Rulers of the Darkness	*	Paperback	*	Fiction	*	true
-Turtledove	*	 Harry	*	Krispos of Videssos	*	Paperback	*	Fiction	*	true
+Turtledove	*	 Harry	*	Throught The Darkness	*	Paperback	*	Fiction	*	true
+Turtledove	*	 Harry	*	Rulers Of The Darkness	*	Paperback	*	Fiction	*	true
+Turtledove	*	 Harry	*	Krispos Of Videssos	*	Paperback	*	Fiction	*	true
 Turtledove	*	 Harry	*	Krispos Rising	*	Paperback	*	Fiction	*	true
-Turtledove	*	 Harry	*	Krispos the Emperor	*	Paperback	*	Fiction	*	false
+Turtledove	*	 Harry	*	Krispos The Emperor	*	Paperback	*	Fiction	*	false
 Turtledove	*	 Harry	*	The Misplaced Legion	*	Paperback	*	Fiction	*	true
-Turtledove	*	 Harry	*	An Emperor for the Legion	*	Paperback	*	Fiction	*	true
-Turtledove	*	 Harry	*	The Legion of Videssos	*	Paperback	*	Fiction	*	false
-Turtledove	*	 Harry	*	Swords of the Legion	*	Paperback	*	Fiction	*	true
-Turtledove	*	 Harry	*	Between the Rivers	*	Paperback	*	Fiction	*	true
-Turtledove	*	 Harry	*	Agent of Byzantium	*	Paperback	*	Fiction	*	true
-Turtledove	*	 Harry	*	A World of Difference	*	Paperback	*	Fiction	*	true
+Turtledove	*	 Harry	*	An Emperor For The Legion	*	Paperback	*	Fiction	*	true
+Turtledove	*	 Harry	*	The Legion Of Videssos	*	Paperback	*	Fiction	*	false
+Turtledove	*	 Harry	*	Swords Of The Legion	*	Paperback	*	Fiction	*	true
+Turtledove	*	 Harry	*	Between The Rivers	*	Paperback	*	Fiction	*	true
+Turtledove	*	 Harry	*	Agent Of Byzantium	*	Paperback	*	Fiction	*	true
+Turtledove	*	 Harry	*	A World Of Difference	*	Paperback	*	Fiction	*	true
 Turtledove	*	 Harry	*	How Few Remain	*	Paperback	*	Fiction	*	true
-Turtledove	*	 Harry	*	The Great War: Walk in Hell	*	Paperback	*	Fiction	*	true
+Turtledove	*	 Harry	*	The Great War: Walk In Hell	*	Paperback	*	Fiction	*	true
 Turtledove	*	 Harry	*	The Great War: American Front	*	Paperback	*	Fiction	*	true
 Turtledove	*	 Harry	*	Ruled Brittania	*	Paperback	*	Fiction	*	true
 Turtledove	*	 Harry	*	Counting Up, Counting Down	*	Paperback	*	Fiction	*	true
-Tyers	*	 Kathy	*	The Truce at Bakura	*	Paperback	*	Fiction	*	true
-Tyson	*	 Eric	*	Mortgages for Dummies	*	Paperback	*	Non-Fiction	*	true
+Tyers	*	 Kathy	*	The Truce At Bakura	*	Paperback	*	Fiction	*	true
+Tyson	*	 Eric	*	Mortgages For Dummies	*	Paperback	*	Non-Fiction	*	true
 Tzu	*	 Lao	*	Dao Te Ching	*	Paperback	*	Philosophy	*	true
-Veitch	*	 Tom	*	Empire's End	*	Paperback	*	Comic Book	*	true
-Verne	*	 Jules	*	Twenty Thousand Leagues Under the Sea	*	Paperback	*	Fiction	*	true
-Verne	*	 Jules	*	Journey to the Center of the Earth	*	Paperback	*	Fiction	*	true
-Voltaire	*	 Francoise-Marie	*	Candide	*	Paperback	*	Fiction	*	true
+Veitch	*	 Tom	*	Empire'S End	*	Paperback	*	Comic Book	*	true
+Verne	*	 Jules	*	Twenty Thousand Leagues Under The Sea	*	Paperback	*	Fiction	*	true
+Verne	*	 Jules	*	Journey To The Center Of The Earth	*	Paperback	*	Fiction	*	true
+Voltaire (Arouet	*	 Francoise-Marie)	*	Candide	*	Paperback	*	Fiction	*	true
 Vonnegut	*	 Kurt Jr.	*	God Bless Your Mr Rosewater	*	Paperback	*	Fiction	*	true
 Vonnegut	*	 Kurt Jr.	*	Bagombo Snuff Box	*	Paperback	*	Fiction	*	true
-Vonnegut	*	 Kurt Jr.	*	Wamperters, Foman, and Granfalloons	*	Paperback	*	Fiction	*	true
+Vonnegut	*	 Kurt Jr.	*	Wamperters, Foman, And Granfalloons	*	Paperback	*	Fiction	*	true
 Vonnegut	*	 Kurt Jr.	*	Galapagos	*	Paperback	*	Fiction	*	true
 Vonnegut	*	 Kurt Jr.	*	God Bless You Dr. Kevorkian	*	Paperback	*	Fiction	*	true
 Vonnegut	*	 Kurt Jr.	*	Slapstick	*	Paperback	*	Fiction	*	true
 Vonnegut	*	 Kurt Jr.	*	Deadeye Dick	*	Paperback	*	Fiction	*	true
-Vonnegut	*	 Kurt Jr.	*	Welcome to the Monkey House	*	Paperback	*	Fiction	*	true
+Vonnegut	*	 Kurt Jr.	*	Welcome To The Monkey House	*	Paperback	*	Fiction	*	true
 Vonnegut	*	 Kurt Jr.	*	Mother Night	*	Paperback	*	Fiction	*	true
 Vonnegut	*	 Kurt Jr.	*	Slaughterhouse Five	*	Paperback	*	Fiction	*	true
-Vonnegut	*	 Kurt Jr.	*	Breakfast of Champions	*	Paperback	*	Fiction	*	true
-Wagner	*	 John	*	Shadows of the Empires	*	Paperback	*	Comic Book	*	true
-Wagner	*	 John	*	Boba Fett; Death, Lies, and Treachery	*	Paperback	*	Comic Book	*	true
+Vonnegut	*	 Kurt Jr.	*	Breakfast Of Champions	*	Paperback	*	Fiction	*	true
+Wagner	*	 John	*	Shadows Of The Empires	*	Paperback	*	Comic Book	*	true
+Wagner	*	 John	*	Boba Fett; Death, Lies, And Treachery	*	Paperback	*	Comic Book	*	true
 Watson	*	 Ian	*	Inquisitor	*	Paperback	*	Fiction	*	true
-Weber	*	 David	*	Ashed of Victory	*	Paperback	*	Fiction	*	true
+Weber	*	 David	*	Ashed Of Victory	*	Paperback	*	Fiction	*	true
 Weber	*	 David	*	How Firm A Foundation	*	Paperback	*	Fiction	*	true
 Weber	*	 David	*	On Basilisk Station	*	Paperback	*	Fiction	*	true
-Weber	*	 David	*	Flag in Exile	*	Paperback	*	Fiction	*	true
-Wells	*	 H.G.	*	The War of the Worlds	*	Paperback	*	Fiction	*	true
+Weber	*	 David	*	Flag In Exile	*	Paperback	*	Fiction	*	true
+Wells	*	 H.G.	*	The War Of The Worlds	*	Paperback	*	Fiction	*	true
 Wells	*	 H.G.	*	The Invisible Man	*	Paperback	*	Fiction	*	true
 Wilde	*	 Oscar	*	Complete Short Fiction	*	Paperback	*	Fiction	*	true
 Windham	*	 Ryder	*	Droids; Rebellion	*	Paperback	*	Comic Book	*	true
 Windham	*	 Ryder	*	Droids; The Kalabra Adventures	*	Paperback	*	Comic Book	*	true
-Wolfe	*	 Gene	*	Sword and Citael	*	Paperback	*	Fiction	*	true
-Wolff	*	 Robert (ED)	*	Ten Great Works on Philosophy	*	Paperback	*	Philosophy	*	true
-Zahn	*	 Timothy	*	Conqueror's Pride	*	Paperback	*	Fiction	*	false
+Wolfe	*	 Gene	*	Sword And Citael	*	Paperback	*	Fiction	*	true
+Wolff	*	 Robert (ED)	*	Ten Great Works On Philosophy	*	Paperback	*	Philosophy	*	true
+Zahn	*	 Timothy	*	Conqueror'S Pride	*	Paperback	*	Fiction	*	false
 Zahn	*	 Timothy	*	Cobra Bargain	*	Paperback	*	Fiction	*	true
-Zahn	*	 Timothy	*	Manta's Gift	*	Paperback	*	Fiction	*	false
+Zahn	*	 Timothy	*	Manta'S Gift	*	Paperback	*	Fiction	*	false
 Robinson	*	 Kim Stanley	*	Red Mars	*	Paperback	*	Fiction	*	true
 Aaron	*	 Jane	*	The Little, Brown Compact Handbook	*	Paperback	*	Reference	*	true
 Abbott	*	 Edwin A	*	Flatland	*	Softcover	*	Fiction	*	true
-Aristophanes	*		*	The Comedies of Aristophanies	*	Softcover	*	Drama	*	true
-Asimov	*	 Isaac	*	Winds of Change	*	Softcover	*	Fiction	*	true
+Aristophanes	*		*	The Comedies Of Aristophanies	*	Softcover	*	Drama	*	true
+Asimov	*	 Isaac	*	Winds Of Change	*	Softcover	*	Fiction	*	true
 Asimov	*	 Isaac	*	Nine Tomorrows	*	Softcover	*	Fiction	*	true
 Asimov	*	 Isaac	*	Opus 100	*	Softcover	*	Fiction	*	true
-Asimov	*	 Isaac	*	The Edge of Tomorrow	*	Softcover	*	Fiction	*	true
+Asimov	*	 Isaac	*	The Edge Of Tomorrow	*	Softcover	*	Fiction	*	true
 Asimov	*	 Isaac	*	The Martian Way	*	Softcover	*	Fiction	*	true
-Asimov	*	 Isaac	*	Foundation and Empire	*	Softcover	*	Fiction	*	true
-Asimov	*	 Isaac	*	Robots and Empire	*	Softcover	*	Fiction	*	true
-Asimov	*	 Isaac	*	Casebook of the Black Widowers	*	Softcover	*	Fiction	*	true
-Asimov	*	 Isaac	*	Banquets of the Black Widowers	*	Softcover	*	Fiction	*	true
+Asimov	*	 Isaac	*	Foundation And Empire	*	Softcover	*	Fiction	*	true
+Asimov	*	 Isaac	*	Robots And Empire	*	Softcover	*	Fiction	*	true
+Asimov	*	 Isaac	*	Casebook Of The Black Widowers	*	Softcover	*	Fiction	*	true
+Asimov	*	 Isaac	*	Banquets Of The Black Widowers	*	Softcover	*	Fiction	*	true
 Asimov	*	 Isaac	*	Nemesis	*	Softcover	*	Fiction	*	true
-Asimov	*	 Isaac	*	Asimov on Shakespeare	*	Softcover	*	Fiction	*	false
-Asimov	*	 Isaac (Ed)	*	Before the Golden Age	*	Softcover	*	Compilation	*	true
+Asimov	*	 Isaac	*	Asimov On Shakespeare	*	Softcover	*	Fiction	*	false
+Asimov	*	 Isaac (Ed)	*	Before The Golden Age	*	Softcover	*	Compilation	*	true
 Asprin	*	 Robert	*	Phule Me Twice	*	Softcover	*	Fiction	*	true
-Atwood	*	 Margaret	*	Cat's Eye	*	Softcover	*	Fiction	*	true
-Auel	*	 Jean	*	Clan of the Cave Bear	*	Softcover	*	Fiction	*	true
-Austin	*	 Jane	*	Pride and Prejudice	*	Softcover	*	Fiction	*	true
+Atwood	*	 Margaret	*	Cat'S Eye	*	Softcover	*	Fiction	*	true
+Auel	*	 Jean	*	Clan Of The Cave Bear	*	Softcover	*	Fiction	*	true
+Austin	*	 Jane	*	Pride And Prejudice	*	Softcover	*	Fiction	*	true
 Baker	*	 Nicholson	*	Room Temperature	*	Softcover	*	Fiction	*	true
 Baker	*	 Nicholson	*	The Mezzanine	*	Softcover	*	Fiction	*	false
 Baker	*	 Nicholson	*	The Anthologist	*	Softcover	*	Fiction	*	true
 Balzac	*	 Honore De	*	Pere Goriot	*	Softcover	*	Fiction	*	true
 Balzac	*	 Honore De	*	Cousin Bette	*	Softcover	*	Fiction	*	true
-Barringer	*	 Tim	*	Reading the Pre-Raphaelites	*	Softcover	*	Art	*	true
+Barringer	*	 Tim	*	Reading The Pre-Raphaelites	*	Softcover	*	Art	*	true
 Barry	*	 Dave	*	Bad Habits	*	Softcover	*	Humor	*	true
 Barry	*	 Dave	*	Big Trouble	*	Softcover	*	Fiction	*	true
 Barth	*	 John	*	The Sot-Weed Factor	*	Softcover	*	Fiction	*	true
 Barth	*	 John	*	The Tidewater Tales	*	Softcover	*	Fiction	*	true
 Barth	*	 John	*	On With The Story	*	Softcover	*	Fiction	*	true
-Baudelair	*	 Charles	*	The Flowers of Evil, A selection	*	Softcover	*	Poetry	*	true
+Baudelair	*	 Charles	*	The Flowers Of Evil, A Selection	*	Softcover	*	Poetry	*	true
 Baudelair	*	 Charles	*	Paris Spleen	*	Softcover	*	Poetry	*	true
-Bear	*	 Greg	*	Darwin's Radio	*	Softcover	*	Fiction	*	true
-Becker	*	 Heather	*	Art for the People	*	Softcover	*	Art	*	true
-Behn	*	 Robin	*	The Practice of Poetry	*	Softcover	*	Criticism	*	true
-Berendt	*	 Charles	*	Midnight in the Garden of Good and Evil	*	Softcover	*	Fiction	*	true
-Borroff	*	 Marie (trans)	*	Gawain and the Green Knight	*	Softcover	*	Poetry	*	true
-Boulle	*	 Pierre	*	Planet of the Apes	*	Softcover	*	Fiction	*	true
+Bear	*	 Greg	*	Darwin'S Radio	*	Softcover	*	Fiction	*	true
+Becker	*	 Heather	*	Art For The People	*	Softcover	*	Art	*	true
+Behn	*	 Robin	*	The Practice Of Poetry	*	Softcover	*	Criticism	*	true
+Berendt	*	 Charles	*	Midnight In The Garden Of Good And Evil	*	Softcover	*	Fiction	*	true
+Borroff	*	 Marie (trans)	*	Gawain And The Green Knight	*	Softcover	*	Poetry	*	true
+Boulle	*	 Pierre	*	Planet Of The Apes	*	Softcover	*	Fiction	*	true
 Bowman	*	 Arthur (Ed)	*	Paul Klee	*	Softcover	*	Art	*	true
 Bradbury	*	 Ray	*	The Toynee Convector	*	Softcover	*	Fiction	*	true
 Bradbury	*	 Ray	*	The Martian Chronicles	*	Softcover	*	Fiction	*	true
@@ -538,12 +538,12 @@ Brin	*	 David	*	Earth	*	Softcover	*	Fiction	*	true
 Buck	*	 Pearl S	*	The Good Earth	*	Softcover	*	Fiction	*	true
 Buck	*	 Pearl S	*	The Rainbow	*	Softcover	*	Fiction	*	true
 Bujold	*	 Lois McMaster	*	The Spirit Ring	*	Softcover	*	Fiction	*	true
-Bujold	*	 Lois McMaster	*	Paladin of Souls	*	Softcover	*	Fiction	*	true
+Bujold	*	 Lois McMaster	*	Paladin Of Souls	*	Softcover	*	Fiction	*	true
 Bukowski	*	 Charles	*	Post Office	*	Softcover	*	Fiction	*	true
 Burroughs	*	 Augusten	*	Dry	*	Softcover	*	Fiction	*	true
-Burroughs	*	 Edgar Rice	*	A Princess of Mars	*	Softcover	*	Fiction	*	true
-Burroughs	*	 Edgar Rice	*	The Gods of Mars	*	Softcover	*	Fiction	*	true
-Burroughs	*	 Edgar Rice	*	The Warlord of Mars	*	Softcover	*	Fiction	*	true
+Burroughs	*	 Edgar Rice	*	A Princess Of Mars	*	Softcover	*	Fiction	*	true
+Burroughs	*	 Edgar Rice	*	The Gods Of Mars	*	Softcover	*	Fiction	*	true
+Burroughs	*	 Edgar Rice	*	The Warlord Of Mars	*	Softcover	*	Fiction	*	true
 Butcher	*	 Jim	*	Storm Front	*	Softcover	*	Fiction	*	true
 Butcher	*	 Jim	*	Small Favor	*	Softcover	*	Fiction	*	true
 Butcher	*	 Jim	*	Turn Coat	*	Softcover	*	Fiction	*	true
@@ -560,9 +560,9 @@ Butcher	*	 Jim	*	White Night	*	Softcover	*	Fiction	*	true
 Butcher	*	 Jim	*	Side Jobs	*	Softcover	*	Fiction	*	true
 Byron	*	 Lord George Gordon Noel	*	Don Juan	*	Softcover	*	Poetry	*	true
 Callenbach	*	 Ernest	*	Ecotopia	*	Softcover	*	Fiction	*	true
-Card	*	 Orson Scott	*	The Memory of Earth	*	Softcover	*	Fiction	*	true
-Card	*	 Orson Scott	*	The Call of Earth	*	Softcover	*	Fiction	*	true
-Card	*	 Orson Scott	*	The Ships of Earth	*	Softcover	*	Fiction	*	false
+Card	*	 Orson Scott	*	The Memory Of Earth	*	Softcover	*	Fiction	*	true
+Card	*	 Orson Scott	*	The Call Of Earth	*	Softcover	*	Fiction	*	true
+Card	*	 Orson Scott	*	The Ships Of Earth	*	Softcover	*	Fiction	*	false
 Card	*	 Orson Scott	*	Earthfall	*	Softcover	*	Fiction	*	true
 Card	*	 Orson Scott	*	Earthborn	*	Softcover	*	Fiction	*	true
 Card	*	 Orson Scott	*	Seventh Son	*	Softcover	*	Fiction	*	false
@@ -572,32 +572,32 @@ Card	*	 Orson Scott	*	Journeyman Alvin	*	Softcover	*	Fiction	*	true
 Card	*	 Orson Scott	*	Rebekah	*	Softcover	*	Fiction	*	true
 Card	*	 Orson Scott	*	Wyrms	*	Softcover	*	Fiction	*	true
 Card	*	 Orson Scott	*	Magic Street	*	Softcover	*	Fiction	*	true
-Card	*	 Orson Scott	*	Hart's Hope	*	Softcover	*	Fiction	*	false
+Card	*	 Orson Scott	*	Hart'S Hope	*	Softcover	*	Fiction	*	false
 Card	*	 Orson Scott	*	Hot Sleep: The Worthing Chronicle	*	Softcover	*	Fiction	*	true
 Card	*	 Orson Scott	*	Saints	*	Softcover	*	Fiction	*	true
 Card	*	 Orson Scott	*	Treason	*	Softcover	*	Fiction	*	true
-Card	*	 Orson Scott	*	The Folk of the Fringe	*	Softcover	*	Fiction	*	true
+Card	*	 Orson Scott	*	The Folk Of The Fringe	*	Softcover	*	Fiction	*	true
 Card	*	 Orson Scott	*	Hidden Empire	*	Softcover	*	Fiction	*	true
 Card	*	 Orson Scott	*	Treasure Box	*	Softcover	*	Fiction	*	true
 Card	*	 Orson Scott	*	Lost Boys	*	Softcover	*	Fiction	*	true
 Card	*	 Orson Scott	*	Homebody	*	Softcover	*	Fiction	*	true
 Card	*	 Orson Scott	*	Pastwatch	*	Softcover	*	Fiction	*	true
-Carr	*	 Terry (Ed)	*	Best Science Fiction of the Year #6	*	Softcover	*	Compilation	*	true
-Carse	*	 James	*	Finite and Infinite Games; A Vision of Life as Play and Possibility	*	Softcover	*	Philosophy	*	true
-Celine	*	 Louis-Ferdinand	*	Journey to the End of The Night	*	Softcover	*	Fiction	*	true
+Carr	*	 Terry (Ed)	*	Best Science Fiction Of The Year #6	*	Softcover	*	Compilation	*	true
+Carse	*	 James	*	Finite And Infinite Games; A Vision Of Life As Play And Possibility	*	Softcover	*	Philosophy	*	true
+Celine	*	 Louis-Ferdinand	*	Journey To The End Of The Night	*	Softcover	*	Fiction	*	true
 Cervantes	*		*	Don Quixote	*	Softcover	*	Fiction	*	true
-Chavkan	*	 Allen (Ed)	*	Conversations with John Gardner	*	Softcover	*	Criticism	*	true
-Chbosky	*	 Stephen	*	The Perks of Being a Wallflower	*	Softcover	*	Fiction	*	true
-Chesterton	*	 G.K.	*	The Secret of Father Brown	*	Softcover	*	Fiction	*	true
+Chavkan	*	 Allen (Ed)	*	Conversations With John Gardner	*	Softcover	*	Criticism	*	true
+Chbosky	*	 Stephen	*	The Perks Of Being A Wallflower	*	Softcover	*	Fiction	*	true
+Chesterton	*	 G.K.	*	The Secret Of Father Brown	*	Softcover	*	Fiction	*	true
 Chomsky	*	 Noam	*	The Chomsky Reader	*	Softcover	*	Non-Fiction	*	true
-Clancy	*	 Tom	*	Powerplays: Ruthless.com	*	Softcover	*	Fiction	*	true
-Clarke	*	 Arthur C.	*	Rendezvous with Rama	*	Softcover	*	Fiction	*	true
-Clarke	*	 Arthur C.	*	Childhood's End	*	Softcover	*	Fiction	*	true
-Clarke	*	 Arthur C.	*	Against the Fall of Night	*	Softcover	*	Fiction	*	true
-Clurman	*	 Harold (ed)	*	Niine Plays of the Modern Theater	*	Softcover	*	Drama	*	true
+Clancy	*	 Tom	*	Powerplays: Ruthless.Com	*	Softcover	*	Fiction	*	true
+Clarke	*	 Arthur C.	*	Rendezvous With Rama	*	Softcover	*	Fiction	*	true
+Clarke	*	 Arthur C.	*	Childhood'S End	*	Softcover	*	Fiction	*	true
+Clarke	*	 Arthur C.	*	Against The Fall Of Night	*	Softcover	*	Fiction	*	true
+Clurman	*	 Harold (ed)	*	Niine Plays Of The Modern Theater	*	Softcover	*	Drama	*	true
 Conrad	*	 Joseph	*	Lord Jim	*	Softcover	*	Fiction	*	true
-Cook	*	 Glen	*	The Books of the South	*	Softcover	*	Fiction	*	true
-Cooper	*	 Joshua (ed)	*	The Government Inspector and Other Russian Plays	*	Softcover	*	Drama	*	true
+Cook	*	 Glen	*	The Books Of The South	*	Softcover	*	Fiction	*	true
+Cooper	*	 Joshua (ed)	*	The Government Inspector And Other Russian Plays	*	Softcover	*	Drama	*	true
 Crichton	*	 Micheal	*	The Andromeda Strain	*	Softcover	*	Fiction	*	true
 Crichton	*	 Micheal	*	The Lost World	*	Softcover	*	Fiction	*	true
 Crichton	*	 Micheal	*	Congo	*	Softcover	*	Fiction	*	true
@@ -605,164 +605,164 @@ Crichton	*	 Micheal	*	Twister	*	Softcover	*	Fiction	*	true
 Crichton	*	 Micheal	*	Jurassic Park	*	Softcover	*	Fiction	*	true
 Crichton	*	 Micheal	*	Disclosure	*	Softcover	*	Fiction	*	true
 Dahl	*	 Roald	*	The Withces	*	Softcover	*	Fiction	*	true
-Dahl	*	 Roald	*	James and the Giant Peach	*	Softcover	*	Fiction	*	true
+Dahl	*	 Roald	*	James And The Giant Peach	*	Softcover	*	Fiction	*	true
 Dazai	*	 Osamu	*	The Setting Sun	*	Softcover	*	Fiction	*	true
-Dostoevsky	*	 Fyodor	*	Three Short Novels of Dostoevsyky	*	Softcover	*	Fiction	*	true
-Eco	*	 Humberto	*	The Name of the Rose	*	Softcover	*	Fiction	*	true
+Dostoevsky	*	 Fyodor	*	Three Short Novels Of Dostoevsyky	*	Softcover	*	Fiction	*	true
+Eco	*	 Humberto	*	The Name Of The Rose	*	Softcover	*	Fiction	*	true
 Eliot	*	  George	*	Silas Marner	*	Softcover	*	Fiction	*	true
-Eliot	*	 T. S.	*	Old Possum's Book of Practical Cats	*	Softcover	*	Poetry	*	true
-Erikson	*	 Steven	*	The Gardens of the Moon	*	Softcover	*	Fiction	*	true
+Eliot	*	 T. S.	*	Old Possum'S Book Of Practical Cats	*	Softcover	*	Poetry	*	true
+Erikson	*	 Steven	*	The Gardens Of The Moon	*	Softcover	*	Fiction	*	true
 Erikson	*	 Steven	*	Deadhouse Gates	*	Softcover	*	Fiction	*	true
 Erikson	*	 Steven	*	Midnight Tides	*	Softcover	*	Fiction	*	true
-Erikson	*	 Steven	*	Memories of Ice	*	Softcover	*	Fiction	*	true
-Erikson	*	 Steven	*	House of Chains	*	Softcover	*	Fiction	*	true
+Erikson	*	 Steven	*	Memories Of Ice	*	Softcover	*	Fiction	*	true
+Erikson	*	 Steven	*	House Of Chains	*	Softcover	*	Fiction	*	true
 France	*	 Anatole	*	Thais	*	Softcover	*	Fiction	*	true
 Frasier	*	 George MacDonald	*	The General Danced At Dawn	*	Softcover	*	Fiction	*	true
-Genet	*	 Jean	*	Querelle of Brest	*	Softcover	*	Fiction	*	true
-Genet	*	 Jean	*	The Thief's Journal	*	Softcover	*	Fiction	*	true
+Genet	*	 Jean	*	Querelle Of Brest	*	Softcover	*	Fiction	*	true
+Genet	*	 Jean	*	The Thief'S Journal	*	Softcover	*	Fiction	*	true
 Gibson	*	 William	*	Spook Country	*	Softcover	*	Fiction	*	true
-Gibson	*	 William	*	All Tomorrow's Parties	*	Softcover	*	Fiction	*	true
+Gibson	*	 William	*	All Tomorrow'S Parties	*	Softcover	*	Fiction	*	true
 Goethe	*	 Johann Wolfgang Von	*	Faust	*	Softcover	*	Drama	*	true
 Goncharov	*	 Ivan	*	Oblomov	*	Softcover	*	Fiction	*	true
-Goodkind	*	 Terry	*	Wizard's First Rule	*	Softcover	*	Fiction	*	false
+Goodkind	*	 Terry	*	Wizard'S First Rule	*	Softcover	*	Fiction	*	false
 Gorky	*	 Maxim	*	The Lower Depths	*	Softcover	*	Drama	*	true
-Grant	*	 Richard	*	Tex and Molly in the Afterlife	*	Softcover	*	Fiction	*	true
+Grant	*	 Richard	*	Tex And Molly In The Afterlife	*	Softcover	*	Fiction	*	true
 Grass	*	 Gunther	*	The Tin Drum	*	Softcover	*	Fiction	*	true
-Grey	*	 Mark Lackritz	*	A Guide to Chicago's Murals	*	Softcover	*	Art	*	true
-Guterson	*	 David	*	Snow Falling on Cedars	*	Softcover	*	Fiction	*	true
-Hagen	*	 Rose-Maire and Rainer	*	What Great Painings Say III	*	Softcover	*	Art	*	true
+Grey	*	 Mark Lackritz	*	A Guide To Chicago'S Murals	*	Softcover	*	Art	*	true
+Guterson	*	 David	*	Snow Falling On Cedars	*	Softcover	*	Fiction	*	true
+Hagen	*	 Rose-Maire and Rainer	*	What Great Painings Say Iii	*	Softcover	*	Art	*	true
 Harding	*	 John	*	One Big Damn Puzzler	*	Softcover	*	Fiction	*	true
-Hardy	*	 Lyndon	*	Master of the Five Magics	*	Softcover	*	Fiction	*	true
-Hardy	*	 Lyndon	*	Secret of the Sixth Magic	*	Softcover	*	Fiction	*	true
-Hartwell	*	 David (Ed)	*	Year's Best SF 2	*	Softcover	*	Compilation	*	true
+Hardy	*	 Lyndon	*	Master Of The Five Magics	*	Softcover	*	Fiction	*	true
+Hardy	*	 Lyndon	*	Secret Of The Sixth Magic	*	Softcover	*	Fiction	*	true
+Hartwell	*	 David (Ed)	*	Year'S Best Sf 2	*	Softcover	*	Compilation	*	true
 Heinlein	*	 Robert	*	Expanded Universe	*	Softcover	*	Fiction	*	true
-Heinlein	*	 Robert	*	The Green Hill's of Earth	*	Softcover	*	Fiction	*	true
-Heinlein	*	 Robert	*	Stranger in A Strange Land	*	Softcover	*	Fiction	*	true
-Heinlein	*	 Robert	*	Farnham's Freehold	*	Softcover	*	Fiction	*	true
+Heinlein	*	 Robert	*	The Green Hill'S Of Earth	*	Softcover	*	Fiction	*	true
+Heinlein	*	 Robert	*	Stranger In A Strange Land	*	Softcover	*	Fiction	*	true
+Heinlein	*	 Robert	*	Farnham'S Freehold	*	Softcover	*	Fiction	*	true
 Heinlein	*	 Robert	*	Double Star	*	Softcover	*	Fiction	*	true
-Helprin	*	 Mark	*	A Soldier of the Great War	*	Softcover	*	Fiction	*	true
-Helprin	*	 Mark	*	Winter's Tale	*	Softcover	*	Fiction	*	true
+Helprin	*	 Mark	*	A Soldier Of The Great War	*	Softcover	*	Fiction	*	true
+Helprin	*	 Mark	*	Winter'S Tale	*	Softcover	*	Fiction	*	true
 Hemmingway	*	 Ernest	*	In Our Time	*	Softcover	*	Fiction	*	true
 Herbert	*	 Brian	*	Dune: House Atreides	*	Softcover	*	Fiction	*	true
 Herbert	*	 Brian	*	Dune: The Butlerian Jihand	*	Softcover	*	Fiction	*	true
 Herbert	*	 Frank	*	Dune Messiah	*	Softcover	*	Fiction	*	true
-Herbert	*	 Frank	*	Children of Dune	*	Softcover	*	Fiction	*	true
-Herbert	*	 Frank	*	God Emperor of Dune	*	Softcover	*	Fiction	*	true
+Herbert	*	 Frank	*	Children Of Dune	*	Softcover	*	Fiction	*	true
+Herbert	*	 Frank	*	God Emperor Of Dune	*	Softcover	*	Fiction	*	true
 Herbert	*	 Frank	*	The Heaven Makers	*	Softcover	*	Fiction	*	true
-Herzog	*	 Arthur	*	IQ 88	*	Softcover	*	Fiction	*	true
-Hesiod	*		*	The Works and Days	*	Softcover	*	Poetry	*	true
+Herzog	*	 Arthur	*	Iq 88	*	Softcover	*	Fiction	*	true
+Hesiod	*		*	The Works And Days	*	Softcover	*	Poetry	*	true
 Hesiod	*		*	Theogony	*	Softcover	*	Poetry	*	true
-Hesiod	*		*	The Shield of Herakles	*	Softcover	*	Poetry	*	true
+Hesiod	*		*	The Shield Of Herakles	*	Softcover	*	Poetry	*	true
 Hesse	*	 Hermann	*	Steppenwolf	*	Softcover	*	Fiction	*	true
 Hesse	*	 Hermann	*	Rosshalde	*	Softcover	*	Fiction	*	true
-Hesse	*	 Hermann	*	The Journey to the East	*	Softcover	*	Fiction	*	true
+Hesse	*	 Hermann	*	The Journey To The East	*	Softcover	*	Fiction	*	true
 Hesse	*	 Hermann	*	Demian	*	Softcover	*	Fiction	*	true
-Hesse	*	 Hermann	*	Klingsor's Last Summer	*	Softcover	*	Fiction	*	true
+Hesse	*	 Hermann	*	Klingsor'S Last Summer	*	Softcover	*	Fiction	*	true
 Hesse	*	 Hermann	*	Knulp	*	Softcover	*	Fiction	*	true
-Hesse	*	 Hermann	*	Beneath the Wheel	*	Softcover	*	Fiction	*	true
+Hesse	*	 Hermann	*	Beneath The Wheel	*	Softcover	*	Fiction	*	true
 Hesse	*	 Hermann	*	Gertrude	*	Softcover	*	Fiction	*	true
 Hesse	*	 Hermann	*	Peter Camenzind	*	Softcover	*	Fiction	*	true
-Hesse	*	 Hermann	*	Narcissus and Goldmund	*	Softcover	*	Fiction	*	true
+Hesse	*	 Hermann	*	Narcissus And Goldmund	*	Softcover	*	Fiction	*	true
 Hobb	*	 Robin	*	Assassins Apprentice	*	Softcover	*	Fiction	*	true
-Hobb	*	 Robin	*	Assassin's Quest	*	Softcover	*	Fiction	*	true
-Hobb	*	 Robin	*	Shaman's Crossing	*	Softcover	*	Fiction	*	true
-Hobb	*	 Robin	*	Renegade's Magic	*	Softcover	*	Fiction	*	true
-Hoeg	*	 Peter	*	Smilla's Sense of Snow	*	Softcover	*	Fiction	*	true
+Hobb	*	 Robin	*	Assassin'S Quest	*	Softcover	*	Fiction	*	true
+Hobb	*	 Robin	*	Shaman'S Crossing	*	Softcover	*	Fiction	*	true
+Hobb	*	 Robin	*	Renegade'S Magic	*	Softcover	*	Fiction	*	true
+Hoeg	*	 Peter	*	Smilla'S Sense Of Snow	*	Softcover	*	Fiction	*	true
 Homer	*		*	The Odyssey	*	Softcover	*	Poetry	*	true
-Hope	*	 Anthony	*	The Prisoner of Zenda	*	Softcover	*	Fiction	*	true
-Hope	*	 Anthony	*	Rupert of Henzau	*	Softcover	*	Fiction	*	true
+Hope	*	 Anthony	*	The Prisoner Of Zenda	*	Softcover	*	Fiction	*	true
+Hope	*	 Anthony	*	Rupert Of Henzau	*	Softcover	*	Fiction	*	true
 Hosseini	*	 Khaled	*	The Kite Runner	*	Softcover	*	Fiction	*	true
 Hugo	*	 Victor 	*	Ninty-Three	*	Softcover	*	Fiction	*	true
 Huxley	*	 Aldous	*	The Island	*	Softcover	*	Fiction	*	true
 Huxley	*	 Aldous	*	Brave New World	*	Softcover	*	Fiction	*	true
 Huysmans	*	 J. K.	*	Downstream	*	Softcover	*	Fiction	*	true
 Huysmans	*	 J. K.	*	La-Bas	*	Softcover	*	Fiction	*	true
-Ibsen	*	 Henrik	*	A Dolls Hose and Other Plays	*	Softcover	*	Drama	*	true
+Ibsen	*	 Henrik	*	A Dolls Hose And Other Plays	*	Softcover	*	Drama	*	true
 Ionesco	*	 Eugene	*	Exit The King	*	Softcover	*	Drama	*	true
 Irving	*	 John	*	Until I Find You	*	Softcover	*	Fiction	*	true
-Jordan	*	 Robert	*	The Eye of the World 	*	Softcover	*	Fiction	*	true
+Jordan	*	 Robert	*	The Eye Of The World 	*	Softcover	*	Fiction	*	true
 Jordan	*	 Robert	*	The Great Hunt	*	Softcover	*	Fiction	*	true
 Kerouac	*	 Jack	*	Mexico City Blues	*	Softcover	*	Poetry	*	true
 Khayyam	*	 Omar	*	The Rubiyat	*	Softcover	*	Poetry	*	true
-King	*	 Ross	*	Michelangelo and the Pope's Ceiling	*	Softcover	*	Art	*	true
-Kooser	*	 Ted	*	Delights and Shadows	*	Softcover	*	Poetry	*	true
-Lattimore	*	 Richard (trans)	*	The Odes of Pindar	*	Softcover	*	Poetry	*	true
+King	*	 Ross	*	Michelangelo And The Pope'S Ceiling	*	Softcover	*	Art	*	true
+Kooser	*	 Ted	*	Delights And Shadows	*	Softcover	*	Poetry	*	true
+Lattimore	*	 Richard (trans)	*	The Odes Of Pindar	*	Softcover	*	Poetry	*	true
 Lewis	*	 C. S.	*	Narrative Poems	*	Softcover	*	Poetry	*	true
 Longfellow	*	 Henry Wadsworth	*	Evangeline	*	Softcover	*	Poetry	*	true
 Lottman	*	 Herbert	*	Flaubert	*	Softcover	*	Biography	*	true
-Magnussen	*	 Magnus (trans)	*	Najl's Saga	*	Softcover	*	Poetry	*	true
+Magnussen	*	 Magnus (trans)	*	Najl'S Saga	*	Softcover	*	Poetry	*	true
 Marx	*	 Karl	*	The Communist Manifesto	*	Softcover	*	Philosophy	*	true
 McGuance	*	 Thomas	*	The Bushwacked Piano	*	Softcover	*	Fiction	*	true
-Melville	*	 Herman	*	Bartleby  and Benito Cerino	*	Softcover	*	Fiction	*	true
+Melville	*	 Herman	*	Bartleby  And Benito Cerino	*	Softcover	*	Fiction	*	true
 Melville	*	 Herman	*	Moby Dick	*	Softcover	*	Fiction	*	false
-Miller	*	 Walter M	*	A Canticle for Leibowitz	*	Softcover	*	Fiction	*	true
-Miller	*	 Walter M	*	St. Leibowitz and the Wild Horse Woman	*	Softcover	*	Fiction	*	true
-Milton	*	 John 	*	Complete Poetry and Selected Prose	*	Softcover	*	Poetry	*	true
-Moliere (Poquelin	*	 Jean-Baptiste)	*	The Misanthrope and Other Plays	*	Softcover	*	Drama	*	true
-Montgomery	*	 L. M.	*	Anne of Green Gables	*	Softcover	*	Fiction	*	true
+Miller	*	 Walter M	*	A Canticle For Leibowitz	*	Softcover	*	Fiction	*	true
+Miller	*	 Walter M	*	St. Leibowitz And The Wild Horse Woman	*	Softcover	*	Fiction	*	true
+Milton	*	 John 	*	Complete Poetry And Selected Prose	*	Softcover	*	Poetry	*	true
+Moliere (Poquelin	*	 Jean-Baptiste)	*	The Misanthrope And Other Plays	*	Softcover	*	Drama	*	true
+Montgomery	*	 L. M.	*	Anne Of Green Gables	*	Softcover	*	Fiction	*	true
 Pinter	*	 Harold	*	Three Plays	*	Softcover	*	Drama	*	true
 Pinter	*	 Harold	*	The Birthday Party	*	Softcover	*	Drama	*	true
 Pinter	*	 Harold	*	The Room	*	Softcover	*	Drama	*	true
 Pinter	*	 Harold	*	Betrayal	*	Softcover	*	Drama	*	true
-Popper	*	 Karl	*	The Open Society and Its Enemies 1: Plato	*	Softcover	*	Philosophy	*	true
-Rand	*	 Ayn	*	Night of January 16th	*	Softcover	*	Drama	*	true
+Popper	*	 Karl	*	The Open Society And Its Enemies 1: Plato	*	Softcover	*	Philosophy	*	true
+Rand	*	 Ayn	*	Night Of January 16Th	*	Softcover	*	Drama	*	true
 Rawls	*	 John	*	Political Liberalism	*	Softcover	*	Philosophy	*	true
-Roethke	*	 Theodore	*	Words for the Wind	*	Softcover	*	Poetry	*	true
+Roethke	*	 Theodore	*	Words For The Wind	*	Softcover	*	Poetry	*	true
 Rousseau	*	 Jean-Jaques	*	The Social Contract	*	Softcover	*	Philosophy	*	true
 Russell	*	 Bertrand	*	Speaks His Mind	*	Softcover	*	Philosophy	*	true
 Sanderson	*	 Brandon	*	Mistborn	*	Softcover	*	Fiction	*	true
-Sanderson	*	 Brandon	*	The Well of Ascension	*	Softcover	*	Fiction	*	true
-Sanderson	*	 Brandon	*	The Hero of Ages	*	Softcover	*	Fiction	*	true
-Sartre	*	 Paul	*	The Age of Reason	*	Softcover	*	Fiction	*	true
-Sartre	*	 Paul	*	No Exit and Three Other Plays	*	Softcover	*	Drama	*	true
-Schiller	*	 Friedrich Schiller	*	On The Aethetic Education of Man; In A Series of Letters	*	Softcover	*	Philosophy	*	true
+Sanderson	*	 Brandon	*	The Well Of Ascension	*	Softcover	*	Fiction	*	true
+Sanderson	*	 Brandon	*	The Hero Of Ages	*	Softcover	*	Fiction	*	true
+Sartre	*	 Paul	*	The Age Of Reason	*	Softcover	*	Fiction	*	true
+Sartre	*	 Paul	*	No Exit And Three Other Plays	*	Softcover	*	Drama	*	true
+Schiller	*	 Friedrich Schiller	*	On The Aethetic Education Of Man; In A Series Of Letters	*	Softcover	*	Philosophy	*	true
 Shinn	*	 Sharon	*	Archangel	*	Softcover	*	Fiction	*	true
 Sia	*	 Beau	*	Egad My Pussy Hurts	*	Softcover	*	Poetry	*	true
-Simmons	*	 Dan	*	The Fall of Hyperion	*	Softcover	*	Fiction	*	true
+Simmons	*	 Dan	*	The Fall Of Hyperion	*	Softcover	*	Fiction	*	true
 Simmons	*	 Dan	*	Hyperion	*	Softcover	*	Fiction	*	false
-Singer	*	 Isaac Bashevis	*	A Crown of Feathers	*	Softcover	*	Fiction	*	true
-Singer	*	 Isaac Bashevis	*	Stories for Children	*	Softcover	*	Fiction	*	true
-Smith	*	 Adam	*	The Wealth of Nations	*	Softcover	*	Philosophy	*	true
+Singer	*	 Isaac Bashevis	*	A Crown Of Feathers	*	Softcover	*	Fiction	*	true
+Singer	*	 Isaac Bashevis	*	Stories For Children	*	Softcover	*	Fiction	*	true
+Smith	*	 Adam	*	The Wealth Of Nations	*	Softcover	*	Philosophy	*	true
 Sophocles	*		*	The Oedipus Cycle	*	Softcover	*	Drama	*	true
-Stanford	*	 Frank	*	The Battlefield Where the Moon Says I Love You	*	Softcover	*	Poetry	*	true
-Stendhal	*	Henri-Marie	*	The Red and the Black	*	Softcover	*	Fiction	*	true
-Stirling	*	 S.M.	*	A Meeting at Corvallis	*	Softcover	*	Fiction	*	true
-Stirling	*	 S.M.	*	The Protector's War	*	Softcover	*	Fiction	*	true
+Stanford	*	 Frank	*	The Battlefield Where The Moon Says I Love You	*	Softcover	*	Poetry	*	true
+Stendhal	*	Henri-Marie	*	The Red And The Black	*	Softcover	*	Fiction	*	true
+Stirling	*	 S.M.	*	A Meeting At Corvallis	*	Softcover	*	Fiction	*	true
+Stirling	*	 S.M.	*	The Protector'S War	*	Softcover	*	Fiction	*	true
 Stirling	*	 S.M.	*	The Sky People	*	Softcover	*	Fiction	*	true
 Stoker	*	 Bram	*	Dracula	*	Softcover	*	Fiction	*	true
-Stoppard	*	 Tom	*	Rosencrantz and Guildenstern are Dead	*	Softcover	*	Drama	*	true
-Swift	*	 Jonathan	*	Gulliver's Travels	*	Softcover	*	Fiction	*	true
-Tennyson	*	 Lord Alfred	*	Idylls of the King	*	Softcover	*	Poetry	*	true
-Tolkien	*	 J.R.R.	*	The Fellowship of the Ring	*	Softcover	*	Fiction	*	true
+Stoppard	*	 Tom	*	Rosencrantz And Guildenstern Are Dead	*	Softcover	*	Drama	*	true
+Swift	*	 Jonathan	*	Gulliver'S Travels	*	Softcover	*	Fiction	*	true
+Tennyson	*	 Lord Alfred	*	Idylls Of The King	*	Softcover	*	Poetry	*	true
+Tolkien	*	 J.R.R.	*	The Fellowship Of The Ring	*	Softcover	*	Fiction	*	true
 Tolkien	*	 J.R.R.	*	The Two Towers	*	Softcover	*	Fiction	*	true
-Tolkien	*	 J.R.R.	*	The Return of the King	*	Softcover	*	Fiction	*	true
-Tolkien	*	 J.R.R.	*	The Shaping of Middle Earth	*	Softcover	*	Fiction	*	true
-Tolkien	*	 J.R.R.	*	The Lays of Beleriand	*	Softcover	*	Fiction	*	true
+Tolkien	*	 J.R.R.	*	The Return Of The King	*	Softcover	*	Fiction	*	true
+Tolkien	*	 J.R.R.	*	The Shaping Of Middle Earth	*	Softcover	*	Fiction	*	true
+Tolkien	*	 J.R.R.	*	The Lays Of Beleriand	*	Softcover	*	Fiction	*	true
 Tolkien	*	 J.R.R.	*	The Silmarillion	*	Softcover	*	Fiction	*	false
 Tolkien	*	 J.R.R.	*	The Hobbit	*	Softcover	*	Fiction	*	true
-Van Orman Quine	*	 Willard	*	From a Logical Point of View	*	Softcover	*	Philosophy	*	true
+Van Orman Quine	*	 Willard	*	From A Logical Point Of View	*	Softcover	*	Philosophy	*	true
 Warnock	*	 G.J.	*	English Philosophy Since 1900	*	Softcover	*	Philosophy	*	true
 Weinberg	*	 Robert et al. (Eds)	*	100 Dastardly Detective Stories	*	Softcover	*	Compilation	*	true
 Wharton	*	 Edith	*	Summer	*	Softcover	*	Fiction	*	true
 Wharton	*	 Edith	*	Short Stories	*	Softcover	*	Fiction	*	true
 Wharton	*	 Edith	*	Ethan Frome	*	Softcover	*	Fiction	*	true
-Wharton	*	 Edith	*	The Buccaneers	*	Softcover	*	Fiction	*	true
-White	*	 E.B.	*	Charlotte's Web	*	Softcover	*	Fiction	*	true
+Wharton	*	 Edith (posth. Marion Mainwaring)	*	The Buccaneers	*	Softcover	*	Fiction	*	true
+White	*	 E.B.	*	Charlotte'S Web	*	Softcover	*	Fiction	*	true
 White	*	 E.B.	*	Stuart Little	*	Softcover	*	Fiction	*	true
-White	*	 T.H.	*	The Once and Future King	*	Softcover	*	Fiction	*	true
-White	*	 T.H.	*	The Book of Merlin	*	Softcover	*	Fiction	*	true
+White	*	 T.H.	*	The Once And Future King	*	Softcover	*	Fiction	*	true
+White	*	 T.H.	*	The Book Of Merlin	*	Softcover	*	Fiction	*	true
 Wiesel	*	 Elie	*	Night	*	Softcover	*	Fiction	*	true
-Wiesel	*	 Elie	*	The Town Beyond the Wall	*	Softcover	*	Fiction	*	true
-Wilde	*	 Oscar	*	Picture of Dorian Grey	*	Softcover	*	Fiction	*	true
-Winchester	*	 Simon	*	The Professor and the Madman	*	Softcover	*	Fiction	*	true
+Wiesel	*	 Elie	*	The Town Beyond The Wall	*	Softcover	*	Fiction	*	true
+Wilde	*	 Oscar	*	Picture Of Dorian Grey	*	Softcover	*	Fiction	*	true
+Winchester	*	 Simon	*	The Professor And The Madman	*	Softcover	*	Fiction	*	true
 Wodehouse	*	 P.G.	*	Summer Moonshine	*	Softcover	*	Fiction	*	true
-Wolfe	*	 Gene	*	Shadow and Claw	*	Softcover	*	Fiction	*	true
-Wolfe	*	 Gene	*	The Urth of the New Sun	*	Softcover	*	Fiction	*	true
-Wolfe	*	 Tom	*	The Bonfire of the Vanities	*	Softcover	*	Fiction	*	true
-Wouk	*	 Hermann	*	Don’t Stop the Carnival	*	Softcover	*	Fiction	*	true
+Wolfe	*	 Gene	*	Shadow And Claw	*	Softcover	*	Fiction	*	true
+Wolfe	*	 Gene	*	The Urth Of The New Sun	*	Softcover	*	Fiction	*	true
+Wolfe	*	 Tom	*	The Bonfire Of The Vanities	*	Softcover	*	Fiction	*	true
+Wouk	*	 Hermann	*	Don’T Stop The Carnival	*	Softcover	*	Fiction	*	true
 Wyss	*	 Johann	*	The Swiss Family Robinson	*	Softcover	*	Fiction	*	true
-Zahn	*	 Timothy	*	Conqueror's Heritage	*	Softcover	*	Fiction	*	true
-Zahn	*	 Timothy	*	Conqueror's Legacy	*	Softcover	*	Fiction	*	true
+Zahn	*	 Timothy	*	Conqueror'S Heritage	*	Softcover	*	Fiction	*	true
+Zahn	*	 Timothy	*	Conqueror'S Legacy	*	Softcover	*	Fiction	*	true
 Zahn	*	 Timothy	*	The Blackcollar	*	Softcover	*	Fiction	*	true
 Zahn	*	 Timothy	*	Deadman Switch	*	Softcover	*	Fiction	*	true
 Zahn	*	 Timothy	*	The Blackcollar Mission	*	Softcover	*	Fiction	*	true
@@ -771,8 +771,8 @@ Zahn	*	 Timothy	*	Time Bomb	*	Softcover	*	Fiction	*	true
 Zahn	*	 Timothy	*	Cobra Strike	*	Softcover	*	Fiction	*	true
 Zahn	*	 Timothy	*	Warhorse	*	Softcover	*	Fiction	*	true
 Zahn	*	 Timothy	*	The Icarus Hunt	*	Softcover	*	Fiction	*	true
-Zahn	*	 Timothy	*	The Green and the Grey	*	Softcover	*	Fiction	*	true
+Zahn	*	 Timothy	*	The Green And The Grey	*	Softcover	*	Fiction	*	true
 Zahn	*	 Timothy	*	Cobra Bargain	*	Softcover	*	Fiction	*	true
-Zahn	*	 Timothy	*	Dragon and Liberator	*	Softcover	*	Fiction	*	true
+Zahn	*	 Timothy	*	Dragon And Liberator	*	Softcover	*	Fiction	*	true
 Zahn	*	 Timothy	*	Cobras Two	*	Softcover	*	Fiction	*	true
 Zahn	*	 Timothy	*	Cobra	*	Softcover	*	Fiction	*	true
