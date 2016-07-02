@@ -1,0 +1,15 @@
+#controls{
+	position: relative;
+	width: 400px;
+	left: calc(50% - 200px);
+}
+
+#comic_cell{
+	position: relative;
+	width: 800px;
+	left: calc(50% - 400px);
+}
+
+h2{
+	text-align: center;
+}
