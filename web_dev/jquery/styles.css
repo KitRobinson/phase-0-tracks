@@ -1,0 +1,16 @@
+div.square{
+	display:inline-block;
+	width:10%;
+	height:0;
+	padding-bottom:10%;
+	background: blue ;
+	border:2px solid black;
+}
+
+h3{
+	text-align:center;
+}
+
+#square_12{
+	background:red;
+}
