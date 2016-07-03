@@ -50,3 +50,37 @@ end
 get '/contact' do
   "123 Main Street<br>Anytown, IL<br>61234<br>"
 end
+
+# A /great_job route that can take a person's name as a query parameter (not a route parameter) and say "Good job, [person's name]!". If the query parameter is not present, the route simply says "Good job!"
+get '/great_job' do
+  name = params[:name]
+  if name
+    "Great Job, #{name}"
+  else
+    "Great Job!"
+  end
+end
+
+#A route that uses route parameters to add two numbers and respond with the result. The data types are tricky here -- when will the data need to be (or arrive as) a string?
+get '/:x/add/:y' do
+  x_int = params[:x].to_i
+  y_int = params[:y].to_i
+  sum = x_int+y_int
+  "the answer is #{sum}"
+end
+
+#Optional bonus: Make a route that allows the user to search the database in some way -- maybe for students who have a certain first name, or some other attribute. If you like, you can simply modify the home page to take a query parameter, and filter the students displayed if a query parameter is present.
+
+#the fname_start parameter can be a single letter, or part of a string, and should return each student whose name starts with that letter/string
+get '/name_lookup/:fname_start' do
+  search_string = "SELECT * FROM students WHERE name like '#{params[:fname_start]}%'"
+  list_of_students = db.execute(search_string)
+  response = ""
+  list_of_students.each do |student|
+    response << "ID: #{student['id']}<br>"
+    response << "Name: #{student['name']}<br>"
+    response << "Age: #{student['age']}<br>"
+    response << "Campus: #{student['campus']}<br><br>"
+  end
+  response
+end
