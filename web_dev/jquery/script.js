@@ -4,7 +4,7 @@ $(document).ready(function(){
 
 	console.log("the page is loaded");
 	//all the jquery methods here
-
+	var score = 0;
 
 	$(".square").css("background", "blue");
 	$("#square_12").css("background", "red");
@@ -26,6 +26,9 @@ $(document).ready(function(){
 	$(".square").click(function(){
 		if(this.style.background == "red"){
 			this.style.background = "green";
+			score++;
+			console.log("score is now " + score)
+			$("#score_keeper").text("Score: " + score);
 		}
 
 	});
